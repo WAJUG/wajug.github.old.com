@@ -1,0 +1,38 @@
+[
+  {
+    "name":"NextLab",
+    "description": {
+      "en": "More Than IT",
+      "fr": "Plus que de l'IT"
+    },
+    "image": "nextlab.png",
+    "site": "http://nextlab.be"
+  },
+  {
+    "name":"Arexo",
+    "description": {
+      "en": "Your ICT consulting company",
+      "fr": "Votre société de consultance IT"
+    },
+    "image": "arexo.jpg",
+    "site": "http://arexo.be"
+  },
+  {
+    "name":"La Forge",
+    "description": {
+      "en": "Culture, Creativity, Usefuln and Opened",
+      "fr": "Culture, Créativité, Utilité et Ouverture"
+    },
+    "image": "laforge.png",
+    "site": "http://laforge-coworking.be/"
+  },
+  {
+    "name":"Manex",
+    "description": {
+      "en": "Network & Software Engineering",
+      "fr": "Network & Software Engineering"
+    },
+    "image": "manex.jpeg",
+    "site": "www.manex.biz"
+  }
+]

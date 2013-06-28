@@ -1,0 +1,79 @@
+<!-- Main hero unit for a primary marketing message or call to action -->
+<div class="hero-unit">
+  <img alt="Wajug Logo" id="logo" src="assets/images/W.logo.red.png" />
+  <p style="margin-top: 20px" ng-bind-html-unsafe="contents('moto')"><p>
+  <div>
+    <!-- social icons -->
+    <ul class="masthead-links">
+        <li style="display: inline;">
+          <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=wajug&amp;repo=be.wajug.website&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50px" height="20px"></iframe>
+        </li>
+        <li style="display: inline;">
+          <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=wajug&amp;repo=be.wajug.website&amp;type=fork&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="78px" height="20px"></iframe>
+        </li>
+        <li style="display: inline;" class="follow-btn">
+          <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.1354270846.html#_=1354309230668&amp;id=twitter-widget-1&amp;lang=en&amp;screen_name=wajug&amp;show_count=true&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button" style="width: 176px; height: 20px; " title="Twitter Follow Button" data-twttr-rendered="true"></iframe>
+        </li>
+      <li style="display: inline;" class="tweet-btn">
+          <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.1354270846.html#_=1354309230651&amp;count=horizontal&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fwajug.be&amp;size=m&amp;text=Check out WAJUG, your Walloon user group about software development&amp;url=http%3A%2F%2Fwww.wajug.be&amp;via=wajug" class="twitter-share-button twitter-count-horizontal" style="width: 97px; height: 20px; " title="Twitter Tweet Button" data-twttr-rendered="true"></iframe>
+        </li>
+        <li style="display: inline;">
+      <div class="fb-like" data-href="https://www.facebook.com/pages/WaJug/365099796891111" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" style="vertical-align:top; padding-top: 1px"></div>
+        </li>
+    </ul>
+</div>
+</div>
+
+<div class="well">
+  <h2 ng-bind-html-unsafe="contents('coming_soon')"></h2>
+  <div ng-repeat="t in upcoming">
+    <div style="display:inline;" ng-bind-html-unsafe="translate(t.date)"></div>:&nbsp;
+    <a class="details" href="#events" ng-bind-html-unsafe="translate(t.subject)"></a>&nbsp;
+    <div style="display:inline;" ng-bind-html-unsafe="contents('by', true)"></div>&nbsp;
+    <div style="display:inline;" ng-bind-html-unsafe="t.speaker.name"></div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span3">
+    <h2 ng-bind-html-unsafe="contents('jargons.header')"></h2>
+    <p ng-bind-html-unsafe="contents('jargons.title')"></p>
+    <ul ng-bind-html-unsafe="contents('jargons.list')">
+    </ul>
+  </div>
+  <div class="span3">
+    <h2 ng-bind-html-unsafe="contents('agile.header')"></h2>
+    <p ng-bind-html-unsafe="contents('agile.title')"></p>
+    <ul ng-bind-html-unsafe="contents('agile.list')">
+    </ul>
+  </div>
+  <div class="span3">
+    <div class="row">
+      <div class="span3">
+        <h2 ng-bind-html-unsafe="contents('platforms.header')"></h2>
+        <p ng-bind-html-unsafe="contents('platforms.title')"></p>
+        <ul ng-bind-html-unsafe="contents('platforms.list')">
+        </ul>
+      </div>
+      <div class="span3">
+        <h2 ng-bind-html-unsafe="contents('tooling.header')"></h2>
+        <p ng-bind-html-unsafe="contents('tooling.title')"></p>
+        <ul ng-bind-html-unsafe="contents('tooling.list')">
+        </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="span3">
+    <h2 ng-bind-html-unsafe="contents('yourstuff.header')"></h2>
+    <div ng-bind-html-unsafe="contents('yourstuff.content')">
+    </div>
+  </div>
+</div>
+<div class="well">
+  <div>
+    <p ng-bind-html-unsafe="contents('gather.header')"></p>
+    <ul ng-bind-html-unsafe="contents('gather.content')">
+    </ul>
+  </div>
+</div>

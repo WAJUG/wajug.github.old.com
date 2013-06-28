@@ -1,0 +1,68 @@
+{
+  "apetrella" : {
+    "twitter": "noootsab",
+    "linkedin": "andypetrella",
+    "name": "Andy Petrella",
+    "site": "http://nextlab.be",
+    "logo": "nextlab.png",
+    "bio": {
+      "en":"<p>Before getting married and having an amazing kid (whose are my biggest pride), I did a graduate in Mathematics at the University of Liège that I followed with another one in Informatics.</p> <p>After having done my schooling duty, I mainly worked in the GIS world, participating in great projects with stakeholders like the NATO or ESA -- Wherein I really enjoyed development in Java, Python, AS3, JavaScript and all kindo'stuffs.</p> <p>Nowadays at NextLab, that I've cofounded, I'm feeding myself with happiness hacking in Scala or functional programming in general... through a Play! Framework 2 lens for the web part. Oh yes, I'm also writing a book... about Play! Framework 2.</p>",
+      "fr":"<p>Avant mon mariage et un super gosse (mes plus grandes fiertés), j'ai étudié les Mathématiques à l'Univeristé de Liège, directement suivi par une autre licence en Informatique.</p> <p>Après mon devoir scolaire, j'ai principalement travaillé dans le monde SIG (GIS), ou j'ai eu l'occasion de participer à des projets géniaux avec des parties prenantes telles que OTAN ou encore l'ESA -- pendant lesquels je me suis bien amusé avec du Java, Python, AS3, JavaScript et autres broles du style.</p> <p>Et maintenant, dans la société NextLab que j'ai cofondé... je me poile en hackant du Scala et de la programmation fonctionnelle en général... Pour le web, je le fais à travers la lentille Play! Framework 2. Ah oui, je suis aussi en train d'écrire un bouquin... sur Play! Framework 2.</p>"
+    }
+  },
+  "srondal" : {
+    "twitter": "stephanerondal",
+    "linkedin": "stephanerondal",
+    "name": "Stephane Rondal",
+    "site": "http://www.arexo.be/",
+    "logo": "arexo.jpg",
+    "bio": {
+      "en":"<p>When he's not busy with his family, traveling, or toying around with geeky stuff, Stephane Rondal is an avid Agilist. He has been learning, applying and teaching Agile since 2005, on solo projects up to projects involving highly distributed teams.</p><p>Stephane is a frequent trainer on Agile matters, as well as a Java/Java EE architect. He's also the co-founder of Arexo, a Belgian IT consultancy company.</p>",
+      "fr":"<p>When he's not busy with his family, traveling, or toying around with geeky stuff, Stephane Rondal is an avid Agilist. He has been learning, applying and teaching Agile since 2005, on solo projects up to projects involving highly distributed teams.</p><p>Stephane is a frequent trainer on Agile matters, as well as a Java/Java EE architect. He's also the co-founder of Arexo, a Belgian IT consultancy company.</p>"
+    }
+  },
+  "ljanssens" : {
+    "twitter": "SustainITBiz",
+    "linkedin": "janssenslaurent",
+    "name": "Laurent Janssens",
+    "site": "http://www.sustain-it.be/",
+    "logo": "sustain-it.gif",
+    "bio": {
+      "en":"<p><span>Laurent has now more than 18 years of experience in the IT world. </span></p><p><span>During his career, he occupied all functions in the IT department. Those last years, as management consultant, he has advised many ICT organisations to professionalize their abilities and to gain in maturity through quality management programs and continuous improvements.</span><br></p><div></div><div>Since 2011, Laurent created Sustain-IT  (<a rel='nofollow' target='_blank' href='http://www.sustain-it.be/'>www.sustain-it.be</a>) which has for objective to assess, plan and implement GreenIT/IT sustainability Policies for ICT departments.</div><p></p>",
+      "fr":"<p>Laurent a 18 ans d'expérience dans le monde IT.&nbsp;<span style='line-height: 1.5;'>Il a rempli toutes les fonctions dans le département ICT.&nbsp;</span></p><p><span style='line-height: 1.5;'>Ces dernières années, en tant que management consultant, il aide les organisations ICT à se développer et à s'améliorer en les accompagnant dans leurs démarches de qualité et d'améliorations continues.&nbsp;</span></p><p><span style='line-height: 1.5;'>Depuis 2011, il a créé Sustain-IT (</span><a rel='nofollow' target='_blank' href='http://www.sustain-it.be/' style='line-height: 1.5;' title='Link: http://www.sustain-it.be/'>www.sustain-it.be</a><span style='line-height: 1.5;'>) qui a pour objectif d'évaluer, de définir et implémenter&nbsp;les politiques Green IT/IT sustainability&nbsp;des départements ICT. &nbsp;</span></p>"
+    }
+  },
+  "bvandermeerssche" : {
+    "twitter": "flukso",
+    "linkedin": "bartvandermeerssche",
+    "name": "Bart Van Der Meerssche",
+    "site": "http://www.flukso.net",
+    "logo": "flukso.png",
+    "bio":{
+      "en":"Bart Van Der Meerssche is an electrical engineer and the founder of Flukso.",
+      "fr":"Bart Van Der Meerssche is an electrical engineer and the founder of Flukso."
+    }
+  },
+  "gcuisinier" : {
+    "twitter": "gcuisinier",
+    "linkedin": "gcuisinier",
+    "name": "Gildas Cuisinier",
+    "site": "http://www.gcuisinier.net",
+    "logo": "",
+    "bio":{
+      "en":"<p>Ancien de l'Inpres, c'est durant mes premiers pas en entreprise que j'ai fait la découverte de Spring Framework. Celui-ci était à l'époque une vrai révolution pour le développement en entreprise. Je suis rapidement devenu fan, et j'ai voulu participer à ma manière à mieux faire connaitre celui-ci. C'est dans cette optique que je suis devenu rédacteur sur Développez.com, et que j'ai fini par mettre en place la section Spring de celui-ci, participer à des évènements comme SpringOne ou rencontrer Interface21/SpringSource.</p><p>Par la suite j'ai eu l'occasion de venir prêcher la bonne paroles dans plusieurs JUGs : BreizhJUG, LorraineJUG, YaJUG, MarsJUG, ParisJUG ainsi que lors de la première édition de Devoxx France.</p>",
+      "fr":"<p>Ancien de l'Inpres, c'est durant mes premiers pas en entreprise que j'ai fait la découverte de Spring Framework. Celui-ci était à l'époque une vrai révolution pour le développement en entreprise. Je suis rapidement devenu fan, et j'ai voulu participer à ma manière à mieux faire connaitre celui-ci. C'est dans cette optique que je suis devenu rédacteur sur Développez.com, et que j'ai fini par mettre en place la section Spring de celui-ci, participer à des évènements comme SpringOne ou rencontrer Interface21/SpringSource.</p><p>Par la suite j'ai eu l'occasion de venir prêcher la bonne paroles dans plusieurs JUGs : BreizhJUG, LorraineJUG, YaJUG, MarsJUG, ParisJUG ainsi que lors de la première édition de Devoxx France.</p>"
+    }
+  },
+  "devoxx4kids" : {
+    "twitter": "devoxx4kids",
+    "linkedin": null,
+    "name": "Devoxx 4 Kids",
+    "site": "http://www.devoxx.com/display/4KIDS/Home",
+    "logo": "devoxx4kids.png",
+    "bio":{
+      "en":"",
+      "fr":"<p>Partant du simple constat qu'il était difficile de trouver du matériel didactique adapté aux enfants entre 8 et 14 ans sur le sujet de la programmation informatique (plus particulièrement dans une langue autre que l'anglais) et désirant montrer à leurs enfants qu'il est possible de faire autre chose de plus attrayant avec un ordinateur que de regarder des vidéos sur Youtube ou de lire des commentaires sur Facebook, certains membres de l'équipe Devoxx ont commencés à réfléchir en 2012 sur le sujet et ont lancés l'initiative Devoxx4Kids.</p> <p>Devoxx4Kids a pour but de permettre aux enfants d'être plus créatifs avec un ordinateur. De leurs faire découvrir la programmation et la logique informatique tout en s'amusant.</p> <p>Pour ce faire, l'équipe Devoxx4Kids réalise des sessions durant lesquelles les enfants peuvent développer des jeux, programmer des robots et aussi avoir une introduction à l'électronique. Le tout encadré par des professionnels de l'informatique sur base du volontariat (tout le monde est le bienvenu).</p> <p>Depuis la première édition de Devoxx4Kids en Belgique en 2012 avec une session néerlandaise (Gand) et une version francophone (Bruxelles), plusieurs autres Devoxx4Kids ont vu le jour partout en Europe: France, Hollande, UK et d'autres initiatives identiques réalisées par d'autres JUGs (Java User Group) se sont fait connaître.</p> <p>Tout le matériel didactique est à disposition en mode Open Source sur le site de Devoxx4Kids. N'importe qui, dans son école, son quartier, sa région, son pays peut utiliser le matériel pour ainsi initier des enfants à la programmation informatique.</p>"
+    }
+  }
+}

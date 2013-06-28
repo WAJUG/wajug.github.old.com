@@ -1,0 +1,138 @@
+{
+  "levels": [
+    "silver",
+    "gold",
+    "platinium"
+  ],
+  "prices": [
+    {
+      "amount":300,
+      "discount":{
+        "amount": 250,
+        "till": {
+          "en": "end of August 2013",
+          "fr": "jusque fin août 2013"
+        }
+      }
+    },
+    {
+      "amount":600,
+      "discount":{
+        "amount": 500,
+        "till": {
+          "en": "end of August 2013",
+          "fr": "jusque fin août 2013"
+        }
+      }
+    },
+    {
+      "amount":900,
+      "discount":{
+        "amount": 750,
+        "till": {
+          "en": "end of August 2013",
+          "fr": "jusque fin août 2013"
+        }
+      }
+    }
+  ],
+  "advantages": [
+    {
+      "title": {
+        "en": "Logo on website",
+        "fr": "Logo on website"
+      },
+      "levels": [
+        {
+          "en":"✓",
+          "fr":"✓"
+        },
+        {
+          "en":"✓",
+          "fr":"✓"
+        },
+        {
+          "en":"✓",
+          "fr":"✓"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en" : "Job advertisements",
+        "fr" : "Job advertisements"
+      },
+      "levels": [
+        null,
+        {
+          "en":"1/year",
+          "fr":"1/an"
+        },
+        {
+          "en":"5/year",
+          "fr":"5/an"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Logo on keynote slide(s)",
+        "fr": "Logo on keynote slide(s)"
+      },
+      "levels": [
+        null,
+        {
+          "en":"✓",
+          "fr":"✓"
+        },
+        {
+          "en":"✓",
+          "fr":"✓"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en" : "Sponsor slot during presentation",
+        "fr" : "Sponsor slot during presentation"
+        },
+      "levels": [
+        null,
+        null,
+        {
+          "en":"✓",
+          "fr":"✓"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en" : "Logo tattooed on co-founder (*)",
+        "fr" : "Logo tattooed on co-founder (*)"
+        },
+      "levels": [
+        null,
+        null,
+        {
+          "en":"✓",
+          "fr":"✓"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en" : "Sponsor can send posts/emails through the group",
+        "fr" : "Sponsor can send posts/emails through the group"
+        },
+      "levels": [
+        null,
+        null,
+        {
+          "en":"✓",
+          "fr":"✓"
+        }
+      ]
+    }
+  ]
+
+}

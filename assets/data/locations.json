@@ -1,0 +1,22 @@
+{
+  "wsl":{
+    "name": "WSL",
+    "address": "Rue des Chasseurs Ardennais, 3<br>4031 Angleur-Liège",
+    "site": "http://www.wsl.be/"
+  },
+  "laforge":{
+    "name": "La Forge",
+    "address": "Rue de la Cathédrale, 58<br/>4000 Liège",
+    "site": "http://forgeons.be/"
+  },
+  "cownamur":{
+    "name": "Coworking de Namur",
+    "address": "48, rue de Fer au 4e étage<br>(au-dessus d'Ethias)",
+    "site": "http://coworkingnamur.be"
+  },
+  "TBA":{
+    "name": "TBA",
+    "address": "To be announced, but near or around Liege",
+    "site": ""
+  }
+}

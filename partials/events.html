@@ -1,0 +1,81 @@
+<div class="container" style="padding-top: 80px">
+  <div class="row">
+    <div class="span6">
+      <h1 ng-bind-html-unsafe="contents('title')"></h1>
+      <p ng-bind-html-unsafe="contents('subtitle')">
+      </p>
+      <table class="table table-striped table-condensed">
+        <thead>
+          <tr>
+            <th ng-bind-html-unsafe="contents('header.date')"></th>
+            <th ng-bind-html-unsafe="contents('header.subject')"></th>
+            <th ng-bind-html-unsafe="contents('header.speaker')"></th>
+            <th ng-bind-html-unsafe="contents('header.location')"></th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="talk in talks" ng-class="{done: talk.done}">
+            <td ng-bind-html-unsafe="translate(talk.date)"></td>
+            <td ng-class="{done: talk.done}">
+              <a class="details" ng-click="select(talk)" future-href="events/{{talk.speaker.id}}/{{talk.description}}.html" ng-bind-html-unsafe="translate(talk.subject)"></a>
+            </td>
+            <td>{{talk.speaker.name}}</td>
+            <td>{{talk.location.name}}</td>
+            <td>
+              <a ng-click="select(talk)" class="details disabled btn btn-primary btn-block btn-mini" style="max-height: 30px;min-width: 60px;">
+                <i class="icon-play icon-white"></i>
+                <span ng-bind-html-unsafe="contents('button.details')"></span>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p ng-bind-html-unsafe="contents('stay_tuned')"></p>
+    </div>
+
+
+    <div class="span6">
+      <div id="talk-content" style="margin:5%; padding-left:5%; border-left:1px darkgray solid;">
+        <div>
+          <h2 ng-bind-html-unsafe="title(selected)"></h2>
+          <h3><i ng-bind-html-unsafe="subtitle(selected)"></i></h3>
+          <p>
+            <a title="It's free!" href="http://wajug.fikket.com/events/{{selected.fikket}}/orders/new">
+              <button class=" btn btn-primary btn-block btn-mini" style="max-height: 30px;max-width: 80px;">
+                <span ng-bind-html-unsafe="contents('book', true)"></span> <i class="icon-shopping-cart icon-white"></i>
+              </button>
+            </a>
+          </p>
+
+          <div ng-bind-html-unsafe="synopsis(selected)">
+          </div>
+
+          <h2>
+            <span ng-bind-html-unsafe="contents('about', true)"></span><span>&nbsp;{{selected.speaker.name}}</span>
+            <br/>
+            <span>
+              <a href="https://twitter.com/{{selected.speaker.twitter}}" ng-show="selected.speaker.twitter"><img class="social speaker" src="/assets/images/Twitter-48.png"/></a>
+              <a href="http://be.linkedin.com/in/{{selected.speaker.linkedin}}" ng-show="selected.speaker.linkedin"><img class="social speaker" src="/assets/images/Linkedin-48.png"/></a>
+              <a href="{{selected.speaker.site}}"><img class="social speaker" src="/assets/images/logo/{{selected.speaker.logo}}" ng-show="selected.speaker.logo"/></a>
+            </span>
+          </h2>
+          <div ng-bind-html-unsafe="bio(selected)">
+          </div>
+
+          <h2 ng-bind-html-unsafe="contents('where_when', true)"></h2>
+          <div ng-bind-html-unsafe="where_when(selected)">
+          </div>
+          <p>
+            <a title="It's free!" href="http://wajug.fikket.com/events/{{selected.fikket}}/orders/new">
+              <button class=" btn btn-primary btn-block btn-mini" style="max-height: 30px;max-width: 80px;">
+                <span ng-bind-html-unsafe="contents('book', true)"></span> <i class="icon-shopping-cart icon-white"></i>
+              </button>
+            </a>
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

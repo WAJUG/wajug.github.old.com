@@ -1,7 +1,101 @@
-<html>
-<head>
-</head>
-<body>
-  <h1>Tessst</h1>
-</body>
+<!doctype html>
+<html ng-app="wajug">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script src="assets/js/jquery/jquery-1.7.1.min.js"></script>
+    <script src="assets/js/jquery/jquery.flip.min.js"></script>
+
+    <script src="assets/js/angular/angular.js"></script>
+    <script src="assets/js/angular/ui/angular-ui.min.js"></script>
+    <script src="assets/js/angular/ui/angular-ui-ieshiv.min.js"></script>
+    <script src="assets/js/angular/bootstrap/ui-bootstrap-tpls-0.3.0.min.js"></script>
+
+    <script src="assets/js/wajug.js"></script>
+    <script src="assets/js/services.js"></script>
+    <script src="assets/js/controllers.js"></script>
+    <script src="assets/js/filters.js"></script>
+    <script src="assets/js/directives.js"></script>
+
+    <link href="assets/css/bootstrap/bootstrap-combined.min.css" rel="stylesheet">
+
+    <link href="assets/css/wajug.css" rel="stylesheet">
+    <link href="assets/js/angular/ui/angular-ui.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- facebook initialization -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div id="wrap">
+      <div id="wrapped">
+        <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+          <div class="navbar-inner" ng-controller="NavBarCtrl">
+            <div class="container">
+              <a class="brand" href="index.html">WAJUG</a>
+              <div class="nav-collapse collapse">
+                <ul class="nav">
+                  <li class="dropdown" ng-controller="SelectLanguagesCtrl">
+                    <a class="dropdown-toggle">
+                    {{title()}}
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li ng-repeat="lgg in languages" ng-click="setLanguage(lgg)">
+                        <a>{{lgg.name}}</a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+              <div>
+                <ul class="nav pull-right">
+                  <li ui-route="#/"><a href="#/">{{contents.home()}}</a></li>
+                  <li ui-route="#/mission"><a href="#/mission">{{contents.mission()}}</a></li>
+                  <li ui-route="#/events"><a href="#/events">{{contents.events()}}</a></li>
+                  <li ui-route="#/sponsoring"><a href="#/sponsoring">{{contents.sponsoring()}}</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div >
+          <ul ui-scrollfix class="scrollfix" style="list-style:none">
+            <li><a href="http://twitter.com/wajug"><img class="social" src="/assets/images/Twitter-48.png" alt="Twitter"/></a></li>
+            <li ><a href="https://www.facebook.com/pages/WaJug/365099796891111"><img class="social" src="/assets/images/FaceBook-48.png" alt="Facebook"/></a></li>
+          </ul>
+        </div>
+        <div class="container">
+          <a href="https://github.com/WAJUG/be.wajug.website"><img class="ribbon" src="/assets/images/github-fork-red.png" alt="Fork me on GitHub"></a>
+          <div id="main" ng-view>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer ng-controller="FooterCtrl">
+      <div style="height:1px;width:100%;background-color:whiteSmoke;"></div>
+      <h1 ng-bind-html-unsafe="contents('sponsors.title')"></h1>
+      <div id="sponsors">
+        <div ng-repeat="sponsor in sponsors" class="sponsor" title="Click to flip">
+          <div class="sponsorFlip">
+            <img src="assets/images/sponsors/{{sponsor.image}}" alt="More about {{sponsor.name}}" />
+          </div>
+          <div class="sponsorData">
+            <div class="sponsorDescription" ng-bind-html-unsafe="translate(sponsor.description)"></div>
+            <div class="sponsorURL"><a href="{{sponsor.site}}">{{sponsor.name}}</a></div>
+          </div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <hr />
+      <div class="clearfix"></div>
+      <div style="padding-left: 10px; padding-bottom: 5px;">
+        <p ng-bind-html-unsafe="contents('copyright')"></p>
+      </div>
+    </footer>
+  </body>
 </html>

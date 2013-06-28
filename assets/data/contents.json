@@ -1,0 +1,292 @@
+{
+  "languages": {
+    "title" : {
+      "fr": "Sélectionnez votre langue",
+      "en": "Select your Language"
+    }
+  },
+  "navbar": {
+    "home" : {
+      "en": "Home",
+      "fr": "Accueil"
+    },
+    "mission" : {
+      "en": "Mission",
+      "fr": "Mission"
+    },
+    "events" : {
+      "en": "Events",
+      "fr": "Événements"
+    },
+    "sponsoring" : {
+      "en": "Sponsoring",
+      "fr": "Sponsoring"
+    }
+  },
+  "by": {
+    "en":"by",
+    "fr":"par"
+  },
+  "book": {
+    "en":"Book now",
+    "fr":"Réservez"
+  },
+  "about": {
+    "en":"About",
+    "fr":"À propos de"
+  },
+  "where_when": {
+    "en":"Where & When",
+    "fr":"Où & Quand"
+  },
+  "footer": {
+    "sponsors": {
+      "title": {
+        "en":"Our partners",
+        "fr":"Nos sponsors"
+      }
+    },
+    "copyright": {
+      "en":"© WAJUG 2012. All rights reserved",
+      "fr":"© WAJUG 2012. Tous droits réservés"
+    }
+  },
+  "call_for_help": {
+    "en": "<p>Date to be announced.<br/>Liege or nearby, exact location will be announced later.<br/><i>We're still looking for a meeting room? Anyone interested in hosting this event at his company? If so, please contact us at <a href='mailto:info@wajug.be'>info@wajug.be</a></i></p>",
+    "fr": "<p>Date à annoncer.<br> Liège ou aux alentours, l'emplacement exact vous sera communiqué ultérieurement.<br> <i>Nous sommes toujours à la recherche d'une salle de réunion. Si vous souhaitez nous accueillir au sein de votre entreprise, n'hésitez pas à nous contacter: <a rel='nofollow' target='_blank'>info@wajug.be</a></i> </p>"
+  },
+  "start": {
+    "moto": {
+      "en": "WAJUG is your local, Walloon, user group related to \"all things software development\".<br /> All this in a fun, friendly and open way, characteristic from the Walloon folks.",
+      "fr": "WAJUG est votre groupe d'utilisateurs local, Wallon, abordant \"tout ce qui touche au développement\".<br />Tout ceci dans une ambiance fun, amicale, ouverte et typiquement wallonne."
+    },
+    "coming_soon": {
+      "en": "Coming soon...",
+      "fr": "Prochainement..."
+    },
+    "events": [{
+                "date": {
+                  "en": "17/01/2013 19h00",
+                  "fr": "17/01/2013 19h00"
+                },
+                "subject": {
+                  "en": "Introduction to functional programming using Scala",
+                  "fr": "Introduction à la programmation fonctionelle au travers de Scala"
+                },
+                "speaker": {
+                  "en": "Andy Petrella",
+                  "fr": "Andy Petrella"
+                }
+              },
+              {
+                "date": {
+                  "en": "27/02/2013 19h00",
+                  "fr": "27/02/2013 19h00"
+                },
+                "subject": {
+                  "en": "Lessons learned from scaling Agile to distributed, offshore teams",
+                  "fr": "Agile distribué en équipes offshores: retour d'expérience"
+                },
+                "speaker": {
+                  "en": "Stephane Rondal",
+                  "fr": "Stephane Rondal"
+                }
+              },
+              {
+                "date": {
+                  "en": "03/25/2013 7PM",
+                  "fr": "25/03/2013 19h00"
+                },
+                "subject": {
+                  "en": "Green IT for Dummies",
+                  "fr": "Le Green IT pour les nuls"
+                },
+                "speaker": {
+                  "en": "Laurent Janssens",
+                  "fr": "Laurent Janssens"
+                }
+              }],
+    "jargons": {
+      "header":{
+                "en":"Jargons",
+                "fr":"Jargons"
+              },
+      "title":{
+                "en":"Come and join us to learn and discuss topics such as programming languages of all kinds, e.g.",
+                "fr":"Venez nous rejoindre pour discuter des langages de programmation de toutes sortes, tels que:"
+              },
+      "list":{
+                "en":"<li>Java</li><li>.Net</li><li>Groovy</li><li>Scala</li><li>JavaScript</li><li>PHP</li>",
+                "fr":"<li>Java</li><li>.Net</li><li>Groovy</li><li>Scala</li><li>JavaScript</li><li>PHP</li>"
+              }
+    },
+    "agile": {
+      "header":{
+                "en":"Agile",
+                "fr":"Agile"
+              },
+      "title":{
+                "en":"Learn how to apply your skills in the most efficient way, by improving your software development process using the <em>Agile</em> methodology.",
+                "fr":"Améliorer vos connaissances sur les méthodologies <em>Agile</em>, et mettez vos talents en pratique le plus efficacement possible."
+              },
+      "list":{
+                "en":"<li>Scrum</li><li>Lean</li><li>Kanban</li><li>...</li>",
+                "fr":"<li>Scrum</li><li>Lean</li><li>Kanban</li><li>...</li>"
+              }
+    },
+    "platforms": {
+      "header":{
+                "en":"Platforms",
+                "fr":"Plateformes"
+              },
+      "title":{
+                "en":"",
+                "fr":""
+              },
+      "list":{
+                "en":"<li>Cloud computing, IAAS, PAAS, SAAS</li><li>GAE, Amazon, ...</li>",
+                "fr":"<li>Cloud computing, IAAS, PAAS, SAAS</li><li>GAE, Amazon, ...</li>"
+              }
+    },
+    "tooling": {
+      "header":{
+                "en":"Tooling",
+                "fr":"Outillage"
+              },
+      "title":{
+                "en":"How to integrate these tools, what they are, why should I embrace them?",
+                "fr":"A quoi servent ces outils, comment les intégrer, pourquoi les utiliser?"
+              },
+      "list":{
+                "en":"<li>Version Control Systems (Git, Mercurial, Subversion)</li><li>Continuous Integration (Jenkins, etc.)</li><li>...</li>",
+                "fr":"<li>Systèmes de version de code source (Git, Mercurial, Subversion)</li><li>Intégration Continue (Jenkins, etc.)</li><li>...</li>"
+              }
+    },
+    "yourstuff": {
+      "header":{
+                "en":"Your stuff",
+                "fr":"C'est à vous"
+              },
+      "content": {
+                "en":"<p>But WAJUG is more than this.<br />It is <b>your</b> user group, dedicated to address <b>your</b> topics of interest.As such, feel free to post your suggestions through the <a href=\"https://www.facebook.com/pages/WaJug/365099796891111\">WAJUG Facebook page</a> and/or through <a href=\"http://twitter.com/wajug\">Twitter</a>.</p><p>Similarly, if you are interested in presenting a talk, <i>don't hesitate and let us know.</i></p>",
+                "fr":"<p>Mais WAJUG est bien plus que tout ceci.<br />C'est <b>votre</b> groupe d'utilisateurs, dédié à <b>vos</b> centres d'interets. Donc n'hésitez pas à envoyer vos suggestions sur la page <a href=\"https://www.facebook.com/pages/WaJug/365099796891111\">Facebook de WAJUG</a> et/ou sur <a href=\"http://twitter.com/wajug\">Twitter</a>.</p><p>De même, si vous avez envie de présenter un sujet, <i>soyez les bienvenus et faites le nous savoir.</i></p>"
+              }
+    },
+    "gather": {
+      "header":{
+                "en":"Interested? Great! Here's what you can do:",
+                "fr":"Interessé? Génial! Voici ce que vous pouvez faire:"
+              },
+      "content":{
+                "en":"<li>Attend our next events. Check the <a href=\"index.html#en&events\">events agenda</a>.</li> <li>Follow us on <a href=\"http://twitter.com/wajug\">Twitter</a> and <a href=\"https://www.facebook.com/pages/WaJug/365099796891111\">Facebook</a>.</li> <li>Spread the word around you, recommend WAJUG to your friends and colleagues.</li> <li>And if you dare to help, we're looking for sponsors/partners and meeting rooms in and around Liege.</li><li>Finally, for the bravest, have your say about the content of this website, as it is on <a href=\"https://github.com/wajug\">GitHub</a>.</li>",
+                "fr":"<li>Venez à nos prochaines sessions. Voyez notre <a href=\"index.html#fr&events\">programme</a>.</li><li>Suivez-nous sur <a href=\"http://twitter.com/wajug\">Twitter</a> et sur<a href=\"https://www.facebook.com/pages/WaJug/365099796891111\">Facebook</a>.</li><li>Faites passer le message, parlez de WAJUG à vos amis et à vos collègues.</li><li>Et si vous êtes pret à aider, nous recherchons des sponsors/partenaires,ainsi que des salles de réunions sur Liège et alentours.</li><li>Finalement, pour les plus braves, influencez le contenu de ce site web, puisqu'il est sur <a href=\"https://github.com/wajug\">GitHub</a>.</li>"
+              }
+    }
+  },
+  "mission": {
+    "title":{
+      "en":"Mission & Values",
+      "fr":"Mission & Valeurs"
+    },
+    "statement":{
+      "header":{
+        "en":"WAJUG members eat, pray, live and die by the following rules.<br/>No, just kidding ;-) but here is a set of guidelines and values we try to adhere to.",
+        "fr":"Les membres de WAJUG mangent, prient, vivent et meurent pour les règles suivantes.<br/>Non, c'est pour rire  ;-) mais voici un ensemble de lignes directrices et de valeurs auxquels nous adhérons."
+      },
+      "items":{
+        "en":"<ul> <li>To form a group of people who share the same affinity with the proposed program.</li> <li>To provide free to low-cost ativities to WAJUG members, taking various forms such as technical presentations, gatherings, etc.</li> <li>To develop and maintain partnership with companies.</li> <li>To develop some projects, making them available to the community.</li> <li>To help some charities.</li> <li>To help disseminate employment, contracting and/or internship opportunities.</li> </ul>",
+        "fr":"<ul> <li>Former un groupe de personnes qui partagent les mêmes affinités avec le programme proposé.</li> <li>Fournir gratuitement ou à bas prix des activités aux membres de WAJUG, tels que présentations techniques, réunions, etc.</li> <li>Développer et maintenir des partenariats avec des sociétés.</li> <li>Développer des projets, en les rendant disponible à la communauté.</li> <li>Aider des organisations caritatives.</li> <li>Aider à disseminer des propositions d'emploi, de mission et/ou de stage </li> </ul>"
+      }
+    }
+  },
+  "events": {
+    "title": {
+      "en":"Upcoming Events",
+      "fr":"Prochaines Sessions"
+    },
+    "subtitle": {
+      "en":"Here's the agenda for our next events.<br />Check this page regularly for updates.",
+      "fr":"Voici l'agenda de nos prochaines sessions.<br />Revenez régulièrement sur cette page pour voir les mises à jour."
+    },
+    "header": {
+      "date": {
+        "en":"Date",
+        "fr":"Date"
+      },
+      "subject": {
+        "en":"Subject",
+        "fr":"Sujet"
+      },
+      "speaker": {
+        "en":"Speaker",
+        "fr":"Présentateur"
+      },
+      "location": {
+        "en":"Location",
+        "fr":"Lieu"
+      }
+    },
+    "button": {
+      "detail": {
+        "en":"Details",
+        "fr":"Détails"
+      }
+    },
+    "stay_tuned": {
+      "en":"Stay tuned, more events to be announced...",
+      "fr":"Restez branché, d'autres sessions sont encore à venir..."
+    }
+  },
+  "sponsoring": {
+    "title": {
+      "en":"Sponsoring Program",
+      "fr":"Programme de Sponsoring"
+    },
+    "who": {
+      "en": "Our Public",
+      "fr": "Notre Public"
+    },
+    "why": {
+      "en": "Why",
+      "fr": "Pourquoi"
+    },
+    "how": {
+      "en": "How",
+      "fr": "Comment"
+    },
+    "recap": {
+      "en": "WAJUG is a user group of professionals active in the software development sector. Typically, our members are developers, analysts, project leaders from the Walloon region (Liege, Namur, Charleroi, …) , but also spread across Belgium/Europe.",
+      "fr": "WAJUG est un groupe d'utilisateurs de professionnels actifs dans le secteur du développement de logiciels. En règle générale, nos membres sont des développeurs, analystes, chefs de projet de la région wallonne (Liège, Namur, Charleroi, ...), mais aussi à travers la Belgique / Europe."
+    },
+    "definition": {
+      "en": "By becoming WAJUG sponsors, companies can easily promote their brand, services, products and/or job opportunities to our members. Additionally, sponsors support the user group, helping it to pursue its <a href='#/mission'>mission</a>, as their financial contribution helps to cover some of the administrative & organizational costs.",
+      "fr": "En devenant sponsors WAJUG, les entreprises peuvent facilement promouvoir leur marque, leurs services, leurs produits et/ou les possibilités d'emploi vers nos membres. En outre, les sponsors soutiennent le groupe d'utilisateurs, en l'aidant à poursuivre sa <a href='#/mission'>mission</a>, ainsi leur contribution financière aide à couvrir une partie des frais administratifs et organisationnels."
+    },
+    "explanation": {
+      "en": "In order to fit different sponsoring budgets, our offer consists of 3 packages, each with a distinct price and a distinct set of benefits. <strong>Please notice that are discounted prices are valid till end of August 2013.</strong>",
+      "fr": "Afin de s'adapter à différents budgets de sponsoring, notre offre se compose de 3 options, chacune ayant un prix et un ensemble distincts d'avantages. <strong>Notez que nos prix promotionnels sont valables jusqu'à fin août 2013.</strong>"
+    },
+    "price": {
+      "en": "Price/year",
+      "fr": "Prix/an"
+    },
+    "walloon": {
+      "for": {
+        "en": "In Wallon",
+        "fr": "En Wallon"
+      },
+      "silver": {
+        "en": "Silver",
+        "fr": "Argent"
+      },
+      "gold": {
+        "en": "Gold",
+        "fr": "Or"
+      },
+      "platinium": {
+        "en": "Platinium",
+        "fr": "Platine"
+      }
+    }
+  }
+}
