@@ -64,5 +64,16 @@
       "en":"",
       "fr":"<p>Partant du simple constat qu'il était difficile de trouver du matériel didactique adapté aux enfants entre 8 et 14 ans sur le sujet de la programmation informatique (plus particulièrement dans une langue autre que l'anglais) et désirant montrer à leurs enfants qu'il est possible de faire autre chose de plus attrayant avec un ordinateur que de regarder des vidéos sur Youtube ou de lire des commentaires sur Facebook, certains membres de l'équipe Devoxx ont commencés à réfléchir en 2012 sur le sujet et ont lancés l'initiative Devoxx4Kids.</p> <p>Devoxx4Kids a pour but de permettre aux enfants d'être plus créatifs avec un ordinateur. De leurs faire découvrir la programmation et la logique informatique tout en s'amusant.</p> <p>Pour ce faire, l'équipe Devoxx4Kids réalise des sessions durant lesquelles les enfants peuvent développer des jeux, programmer des robots et aussi avoir une introduction à l'électronique. Le tout encadré par des professionnels de l'informatique sur base du volontariat (tout le monde est le bienvenu).</p> <p>Depuis la première édition de Devoxx4Kids en Belgique en 2012 avec une session néerlandaise (Gand) et une version francophone (Bruxelles), plusieurs autres Devoxx4Kids ont vu le jour partout en Europe: France, Hollande, UK et d'autres initiatives identiques réalisées par d'autres JUGs (Java User Group) se sont fait connaître.</p> <p>Tout le matériel didactique est à disposition en mode Open Source sur le site de Devoxx4Kids. N'importe qui, dans son école, son quartier, sa région, son pays peut utiliser le matériel pour ainsi initier des enfants à la programmation informatique.</p>"
     }
+  },
+  "wajugians" : {
+    "twitter": "wajug",
+    "linkedin": null,
+    "name": "Wajugians",
+    "site": "http://wajug.be",
+    "logo": "wajug.png",
+    "bio":{
+      "en":"<p>Eat and drink together...",
+      "fr":"<p>Boire et manger ensemble pour une fois.</p>"
+    }
   }
 }
