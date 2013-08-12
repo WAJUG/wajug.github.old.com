@@ -97,7 +97,7 @@
       },
       "synopsis": {
         "en" : "<p>Flukso is a community metering platform. People install a Fluksometer in their home or office to monitor their electricity, water and gas usage and benchmark their consumption against other Fluksonians.</p><p>This talk will give you an overview of the Flukso software stack. From the embedded code running on the Fluksometers to the server components. Like any organism, the Flukso platform is constantly evolving. A selection of the major design choices, past and present, will therefore be addressed. So do please come and join us if you've got a interest in the topics of distributed systems, telemetry and software robustness.</p>",
-	"fr" : "<p>Flukso est une plateform communautaire de mesure. Il suffit d'installer un Fluksomètre chez soit ou au bureau et il est possible de suivre l'évolution des consommation en électricité, eau et gaz.<br> De plus, grâce à l'aspect communautaire apporté par Flukso, il est possible de comparer ou mettre à l'épreuve vos consommations par rapport à d'autres Fluksonians.</p> <p>Ce talk vous donnera un aperçu de la stack logicielle derrière Flukso. Depuis le code embarqué dans les Fluksomètes jusqu'aux composants serveurs. Comme tout organisme, la plateforme Flukso évolue constamment.<br> Une sélection de choix de design majeurs, passés et présents, seront ainsi traités.</p> <p>Donc n'hésitez plus et venez nous rejoindre dans cette discussion sur les sujets des systèmes distribués, télémétries et performances logicielles.</p>"
+	      "fr" : "<p>Flukso est une plateform communautaire de mesure. Il suffit d'installer un Fluksomètre chez soit ou au bureau et il est possible de suivre l'évolution des consommation en électricité, eau et gaz.<br> De plus, grâce à l'aspect communautaire apporté par Flukso, il est possible de comparer ou mettre à l'épreuve vos consommations par rapport à d'autres Fluksonians.</p> <p>Ce talk vous donnera un aperçu de la stack logicielle derrière Flukso. Depuis le code embarqué dans les Fluksomètes jusqu'aux composants serveurs. Comme tout organisme, la plateforme Flukso évolue constamment.<br> Une sélection de choix de design majeurs, passés et présents, seront ainsi traités.</p> <p>Donc n'hésitez plus et venez nous rejoindre dans cette discussion sur les sujets des systèmes distribués, télémétries et performances logicielles.</p>"
       },
       "description" : "flukso",
       "speaker": "bvandermeerssche",
@@ -157,6 +157,33 @@
       "speaker": "devoxx4kids",
       "location": "laforge",
       "fikket": "devoxx-4-kids-train-the-trainers",
+      "done": true
+    },
+    {
+    	"date": {
+        "en": "08/21/2013 6PM",
+        "fr": "21/08/2013 18h00"
+      },
+      "subject": {
+        "en": "All about drink and chat",
+        "fr": "Discutons et buvons ensemble"
+      },
+      "title": {
+        "en": "WAJUG Drink",
+        "fr": "WAJUG Drink"
+      },
+      "subtitle":{
+        "en":"Social party",
+        "fr":"Social party"
+      },
+      "synopsis": {
+        "en" : "",
+        "fr" : "<p>Pour une fois, au diable les slides, présentations et orateurs en tout genre.</p><p>Nous vous invitons simplement autour d'une table, pour discuter et boire un verre, ou juste l'un ou l'autre ;-)</p>"
+      },
+      "description" : "wajugians",
+      "speaker": "wajugians",
+      "location": "sauveniere",
+      "fikket": null,
       "done": false
     }
 
