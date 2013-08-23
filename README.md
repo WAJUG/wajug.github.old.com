@@ -7,6 +7,7 @@ Check it out:
 * Website: http://www.wajug.be
 * Facebook: https://www.facebook.com/pages/WaJug/365099796891111
 * Twitter: http://twitter.com/wajug
+* Google Groups: https://groups.google.com/d/forum/wajug
 
 And of course, we're on github! We store the HTML source code of the wajug.be website here.
 Feel free to contribute to the website by becoming a comitter.
