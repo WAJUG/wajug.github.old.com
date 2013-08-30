@@ -1,7 +1,7 @@
 {
   "apetrella" : {
     "twitter": "noootsab",
-    "linkedin": "andypetrella",
+    "linkedin": "http://be.linkedin.com/in/andypetrella",
     "name": "Andy Petrella",
     "site": "http://nextlab.be",
     "logo": "nextlab.png",
@@ -12,7 +12,7 @@
   },
   "srondal" : {
     "twitter": "stephanerondal",
-    "linkedin": "stephanerondal",
+    "linkedin": "http://be.linkedin.com/in/stephanerondal",
     "name": "Stephane Rondal",
     "site": "http://www.arexo.be/",
     "logo": "arexo.jpg",
@@ -23,7 +23,7 @@
   },
   "ljanssens" : {
     "twitter": "SustainITBiz",
-    "linkedin": "janssenslaurent",
+    "linkedin": "http://be.linkedin.com/in/janssenslaurent",
     "name": "Laurent Janssens",
     "site": "http://www.sustain-it.be/",
     "logo": "sustain-it.gif",
@@ -34,7 +34,7 @@
   },
   "bvandermeerssche" : {
     "twitter": "flukso",
-    "linkedin": "bartvandermeerssche",
+    "linkedin": "http://be.linkedin.com/in/bartvandermeerssche",
     "name": "Bart Van Der Meerssche",
     "site": "http://www.flukso.net",
     "logo": "flukso.png",
@@ -45,7 +45,7 @@
   },
   "gcuisinier" : {
     "twitter": "gcuisinier",
-    "linkedin": "gcuisinier",
+    "linkedin": "http://be.linkedin.com/in/gcuisinier",
     "name": "Gildas Cuisinier",
     "site": "http://www.gcuisinier.net",
     "logo": "",
@@ -74,6 +74,28 @@
     "bio":{
       "en":"<p>Eat and drink together...",
       "fr":"<p>Boire et manger ensemble pour une fois.</p>"
+    }
+  },
+  "ddewaele" : {
+    "twitter": "ddewaele",
+    "linkedin": "http://be.linkedin.com/pub/davy-de-waele/5/529/571/",
+    "name": "Davy De Waele",
+    "site": " http://ddewaele.github.io/GoogleMapsV2WithActionBarSherlock",
+    "logo": null,
+    "bio":{
+      "en":"<p>Belgium based Senior Application Architect / Developer. Strong focus on Java and a broad interest in various functional and technical domains. Started as an enterprise developer, transitioned into more architectural roles and lately focussing more on mobile and frontend technologies. Javascript nina-wanna-be</p>",
+      "fr":"<p>Belgium based Senior Application Architect / Developer. Strong focus on Java and a broad interest in various functional and technical domains. Started as an enterprise developer, transitioned into more architectural roles and lately focussing more on mobile and frontend technologies. Javascript nina-wanna-be</p>"
+    }
+  },
+  "palberty" : {
+    "twitter": "zorrobiwan",
+    "linkedin": "http://www.linkedin.com/in/pascalalberty",
+    "name": "Pascal Alberty",
+    "site": "http://www.tweetwallpro.com/",
+    "logo": "tweetwallpro.jpg",
+    "bio":{
+      "en":"TBD",
+      "fr":"TBD"
     }
   }
 }
