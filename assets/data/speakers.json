@@ -94,8 +94,19 @@
     "site": "http://www.tweetwallpro.com/",
     "logo": "tweetwallpro.jpg",
     "bio":{
-      "en":"TBD",
-      "fr":"TBD"
+      "en":"TBA",
+      "fr":"TBA"
+    }
+  },
+  "rvbruggen" : {
+    "twitter": "rvanbruggen",
+    "linkedin": "http://be.linkedin.com/in/rikvanbruggen/",
+    "name": "Rik Van Bruggen",
+    "site": "",
+    "logo": "",
+    "bio":{
+      "en":"TBA",
+      "fr":"TBA"
     }
   },
   "ahortz" : {
