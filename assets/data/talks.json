@@ -269,6 +269,33 @@
   },
   {
   	"date": {
+      "en": "11/20/2013 7PM",
+      "fr": "20/11/2013 19h00"
+    },
+    "subject": {
+      "en": "NodeCopter",
+      "fr": "NodeCopter"
+    },
+    "title": {
+      "en": "NodeCopter",
+      "fr": "NodeCopter"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "TBA",
+      "fr": "TBA"
+    },
+    "description" : "nodecopter",
+    "speaker": "leschenauer",
+    "location": "laforge",
+    "fikket": null,
+    "done": false
+  },
+  {
+  	"date": {
       "en": "12/09/2013 7PM",
       "fr": "09/12/2013 19h00"
     },
