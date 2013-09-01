@@ -97,5 +97,17 @@
       "en":"TBD",
       "fr":"TBD"
     }
+  },
+  "ahortz" : {
+    "twitter": "alanhortz",
+    "linkedin": "be.linkedin.com/in/alanhortz/",
+    "name": "Alan Hortz",
+    "site": "http://www.tweetwallpro.com/",
+    "logo": "",
+    "bio":{
+      "en":"<p>Alan est actuellement Scrum Master pour la société Ogone. Ogone est un acteur spécialisé dans les services de paiement électronique.</p><p>En plus de ses 10 années d’expérience dans le monde IT, il termine actuellement un master en informatique aux facultés universitaires Notre Dame de la Paix à Namur.</p><p>Alan est passionné par l’informatique depuis que ses doigts se sont posés sur le clavier d’un Commodore 64. Depuis sa curiosité l’a amené à explorer les différentes techniques de développement logiciel tel que le unit testing, le développement mobile, l’intégration continue et récemment Scrum et d’autres méthodes Agile.</p>",
+      "fr":"<p>Alan est actuellement Scrum Master pour la société Ogone. Ogone est un acteur spécialisé dans les services de paiement électronique.</p><p>En plus de ses 10 années d’expérience dans le monde IT, il termine actuellement un master en informatique aux facultés universitaires Notre Dame de la Paix à Namur.</p><p>Alan est passionné par l’informatique depuis que ses doigts se sont posés sur le clavier d’un Commodore 64. Depuis sa curiosité l’a amené à explorer les différentes techniques de développement logiciel tel que le unit testing, le développement mobile, l’intégration continue et récemment Scrum et d’autres méthodes Agile.</p>"
+    }
   }
+
 }

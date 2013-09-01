@@ -239,5 +239,33 @@
     "location": "laforge",
     "fikket": null,
     "done": false
+  },
+  {
+  	"date": {
+      "en": "12/09/2013 7PM",
+      "fr": "09/12/2013 19h00"
+    },
+    "subject": {
+      "en": "Agile Testing Attitude",
+      "fr": "L'attitude de testing agile"
+    },
+    "title": {
+      "en": "Agile Testing Attitude",
+      "fr": "L'attitude de testing agile"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>Des études démontrent qu'un très grand nombre de personnes n'aime pas ou n'aime plus leur job alors que ces mêmes personnes passent plus de temps avec leurs collaborateurs qu'avec leur propre famille.</p><p>Une attitude orientée 'testing' dans le cadre du développement logiciel peut mener à plus de confort dans le cadre professionnel et favoriser l'émergence de comportements collaboratifs efficaces.</p><p>Il est par contre difficile, voire impossible, de forcer les gens à adopter une attitude ou un comportement différent, cependant il est possible de créer des opportunités d'apprentissage pour favoriser un changement positif.</p><p>La session expose un retour d'expérience sur l'approche mise en oeuvre pour introduire des pratiques de test dans une entreprise en transition vers l'agilité et met en lumière les actions susceptibles d'augmenter la qualité de votre vie professionnelle ainsi que celle de vos collaborateurs.</p>",
+      "fr": "<p>Des études démontrent qu'un très grand nombre de personnes n'aime pas ou n'aime plus leur job alors que ces mêmes personnes passent plus de temps avec leurs collaborateurs qu'avec leur propre famille.</p><p>Une attitude orientée 'testing' dans le cadre du développement logiciel peut mener à plus de confort dans le cadre professionnel et favoriser l'émergence de comportements collaboratifs efficaces.</p><p>Il est par contre difficile, voire impossible, de forcer les gens à adopter une attitude ou un comportement différent, cependant il est possible de créer des opportunités d'apprentissage pour favoriser un changement positif.</p><p>La session expose un retour d'expérience sur l'approche mise en oeuvre pour introduire des pratiques de test dans une entreprise en transition vers l'agilité et met en lumière les actions susceptibles d'augmenter la qualité de votre vie professionnelle ainsi que celle de vos collaborateurs.</p>"
+    },
+    "description" : "agile-testing",
+    "speaker": "ahortz",
+    "location": "laforge",
+    "fikket": null,
+    "done": false
   }
+
 ]
