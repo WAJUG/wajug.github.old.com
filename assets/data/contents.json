@@ -47,8 +47,8 @@
       }
     },
     "copyright": {
-      "en":"© WAJUG 2012. All rights reserved",
-      "fr":"© WAJUG 2012. Tous droits réservés"
+      "en":"© WAJUG 2012-2013. All rights reserved",
+      "fr":"© WAJUG 2012-2013. Tous droits réservés"
     }
   },
   "call_for_help": {
@@ -63,6 +63,10 @@
     "coming_soon": {
       "en": "Coming soon...",
       "fr": "Prochainement..."
+    },
+    "elsewhere": {
+      "en": "Elsewhere...",
+      "fr": "Ailleurs..."
     },
     "events": [{
                 "date": {

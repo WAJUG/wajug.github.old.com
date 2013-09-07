@@ -107,7 +107,7 @@ function FooterCtrl($scope, languages, contents, sponsors) {
 }
 FooterCtrl.$inject = ["$scope", "languages", "contents", "sponsors"];
 
-function StartCtrl($scope, languages, contents, talks) {
+function StartCtrl($scope, languages, contents, talks, elsewheres) {
 
   var _contents;
 
@@ -130,6 +130,11 @@ function StartCtrl($scope, languages, contents, talks) {
           console.dir($scope.upcoming);
         });
 
+  $scope.elsewhereInterval = "3000"
+  elsewheres.then(function(elsewheres) {
+    $scope.elsewheres = elsewheres;
+  });
+
   $scope.translate = function(o) {
     if (angular.isObject(o)) {
       return languages.translate(o);
@@ -145,7 +150,7 @@ function StartCtrl($scope, languages, contents, talks) {
   }
 
 }
-StartCtrl.$inject = ["$scope", "languages", "contents", "talks"];
+StartCtrl.$inject = ["$scope", "languages", "contents", "talks", "elsewheres"];
 
 
 function MissionCtrl($scope, languages, contents) {
@@ -167,10 +172,6 @@ function MissionCtrl($scope, languages, contents) {
 MissionCtrl.$inject = ["$scope", "languages", "contents"];
 
 function EventsCtrl($scope, languages, contents, talks) {
-  // talks.then(function(talks) {
-  //   angular.forEach(talks, function(i) {console.dir(i)});
-  // });
-
   var _contents;
 
   contents.async()

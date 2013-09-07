@@ -93,5 +93,12 @@ angular.module('wajug.services', []).
                       return resource.data;
                     });
     return promise;
+  }]).
+  factory("elsewheres", ["$http", function($http) {
+    var promise = $http.get('/assets/data/elsewheres.json').
+                    then(function(resource) {
+                      return resource.data;
+                    });
+    return promise;
   }])
 ;

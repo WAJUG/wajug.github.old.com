@@ -1,0 +1,30 @@
+[
+  {
+    "href":"http://www.meetup.com/Open-Hack-Liege/",
+    "image":"https://si0.twimg.com/profile_images/378800000373861280/4b1be1b9600913604bed891a097a141e_bigger.png",
+    "name":"Open Hack Liège",
+    "text":"Come on and Hack on",
+    "date": "19 Sept. (19:00)"
+  },
+  {
+    "href":"http://www.devoxx.com/display/4KIDSBE/Home",
+    "image":"http://www.devoxx.com/download/attachments/6390231/Devoxx4Kids.png",
+    "name":"Devoxx4Kids",
+    "text":"Allow children to be more creative with Computer",
+    "date": "5 Oct. (NL) - 12 Oct. (FR)"
+  },
+  {
+    "href":"http://hackathonegovwallonia.net/",
+    "image":"http://hackathonegovwallonia.net/wp-content/uploads/2013/02/logo_petit.jpg",
+    "name":"Hackathon eGov Wallonia",
+    "text":"Hack de 3 jours pour de nouveaux services publics",
+    "date": "4-6 Oct."
+  },
+  {
+    "href":"http://www.devoxx.be/#/",
+    "image":"http://bejug.org/confluenceBeJUG/download/attachments/291/Devoxx2013-125x125.gif",
+    "name":"Devoxx",
+    "text":"BORN TO BE",
+    "date": "11-15 Nov."
+  }
+]

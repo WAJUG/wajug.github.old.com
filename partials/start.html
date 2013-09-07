@@ -24,13 +24,31 @@
 </div>
 </div>
 
-<div class="well">
-  <h2 ng-bind-html-unsafe="contents('coming_soon')"></h2>
-  <div ng-repeat="t in upcoming">
-    <div style="display:inline;" ng-bind-html-unsafe="translate(t.date)"></div>:&nbsp;
-    <a class="details" href="#events" ng-bind-html-unsafe="translate(t.subject)"></a>&nbsp;
-    <div style="display:inline;" ng-bind-html-unsafe="contents('by', true)"></div>&nbsp;
-    <div style="display:inline;" ng-bind-html-unsafe="t.speaker.name"></div>
+<div class="row-fluid">
+  <div class="span8">
+    <div class="well">
+      <h2 ng-bind-html-unsafe="contents('coming_soon')"></h2>
+      <div ng-repeat="t in upcoming">
+        <div style="display:inline;" ng-bind-html-unsafe="translate(t.date)"></div>:&nbsp;
+        <a class="details" href="#events" ng-bind-html-unsafe="translate(t.subject)"></a>&nbsp;
+        <div style="display:inline;" ng-bind-html-unsafe="contents('by', true)"></div>&nbsp;
+        <div style="display:inline;" ng-bind-html-unsafe="t.speaker.name"></div>
+      </div>
+    </div>
+  </div>
+  <div class="span4">
+    <div class="well">
+      <h3 ng-bind-html-unsafe="contents('elsewhere')"></h3>
+      <carousel interval="elsewhereInterval">
+        <slide style="min-height:200px" ng-repeat="e in elsewheres" active="e.active">
+          <a href="{{e.href}}" target="_blank"> <img ng-src="{{e.image}}" style="margin:auto;"> </a>
+          <div class="carousel-caption">
+            <h4>{{e.name}}</h4>
+            <p>{{e.text}} [{{e.date}}]</p>
+          </div>
+        </slide>
+      </carousel>
+    </div>
   </div>
 </div>
 
