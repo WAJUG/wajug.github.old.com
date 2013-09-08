@@ -34,5 +34,14 @@
     },
     "image": "manex.jpeg",
     "site": "www.manex.biz"
+  },
+  {
+    "name":"O'REILLY",
+    "description": {
+      "en": "Create more value than you capture.",
+      "fr": "Create more value than you capture."
+    },
+    "image": "oreilly.gif",
+    "site": "http://oreilly.com/"
   }
 ]
