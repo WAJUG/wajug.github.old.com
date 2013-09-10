@@ -211,6 +211,7 @@
     "speaker": "ddewaele",
     "location": "laforge",
     "fikket": null,
+    "meetup": 138908962,
     "done": false
   },
   {
@@ -236,7 +237,7 @@
     },
     "description" : "tweet-wall-pro",
     "speaker": "palberty",
-    "location": "TBA",
+    "location": "cownamur",
     "fikket": null,
     "done": false
   },
@@ -285,8 +286,8 @@
       "fr": ""
     },
     "synopsis": {
-      "en": "TBA",
-      "fr": "TBA"
+      "en": "<p>Programmer des robots volants en Javascript !</p> <p>Un drone autonome qui vous suis et prend des photos durant vos vacances ? Le tout programmé en Javascript? Non, ce n'est pas de la science fiction mais possible aujourd'hui pour quelques centaines d'euro et avec la plateforme NodeJS.</p> <p>Laurent présentera le projet nodecopter.com, qui vise à transmettre les joies de la robotique aux développeurs (web) habitués à la programmation Javascript. Il expliquera quelques concepts de base de robotique, présentera ses projets de vol autonome d'un quadricopter, et effectuera quelques demos d'un engin en vol.</p>",
+      "fr": "<p>Programmer des robots volants en Javascript !</p> <p>Un drone autonome qui vous suis et prend des photos durant vos vacances ? Le tout programmé en Javascript? Non, ce n'est pas de la science fiction mais possible aujourd'hui pour quelques centaines d'euro et avec la plateforme NodeJS.</p> <p>Laurent présentera le projet nodecopter.com, qui vise à transmettre les joies de la robotique aux développeurs (web) habitués à la programmation Javascript. Il expliquera quelques concepts de base de robotique, présentera ses projets de vol autonome d'un quadricopter, et effectuera quelques demos d'un engin en vol.</p>"
     },
     "description" : "nodecopter",
     "speaker": "leschenauer",

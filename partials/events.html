@@ -41,10 +41,11 @@
           <h2 ng-bind-html-unsafe="title(selected)"></h2>
           <h3><i ng-bind-html-unsafe="subtitle(selected)"></i></h3>
           <p>
-            <a title="It's free!" href="http://wajug.fikket.com/events/{{selected.fikket}}/orders/new">
-              <button class=" btn btn-primary btn-block btn-mini" style="max-height: 30px;max-width: 80px;">
-                <span ng-bind-html-unsafe="contents('book', true)"></span> <i class="icon-shopping-cart icon-white"></i>
-              </button>
+            <a ng-show="selected.fikket" target="_blank" class=" btn btn-primary btn-block btn-mini" style="max-height: 30px;max-width: 80px;" title="It's free!" href="http://wajug.fikket.com/events/{{selected.fikket}}/orders/new">
+              <span ng-bind-html-unsafe="contents('book', true)"></span> <i class="icon-shopping-cart icon-white"></i>
+            </a>
+            <a ng-show="selected.meetup" target="_blank" class=" btn btn-primary btn-block btn-mini" style="max-height: 30px;max-width: 80px;" title="It's free!" href="http://www.meetup.com/wajug-be/events/{{selected.meetup}}">
+              <span ng-bind-html-unsafe="contents('book', true)"></span> <i class="icon-shopping-cart icon-white"></i>
             </a>
           </p>
 
@@ -67,10 +68,11 @@
           <div ng-bind-html-unsafe="where_when(selected)">
           </div>
           <p>
-            <a title="It's free!" href="http://wajug.fikket.com/events/{{selected.fikket}}/orders/new">
-              <button class=" btn btn-primary btn-block btn-mini" style="max-height: 30px;max-width: 80px;">
-                <span ng-bind-html-unsafe="contents('book', true)"></span> <i class="icon-shopping-cart icon-white"></i>
-              </button>
+            <a ng-show="selected.fikket" target="_blank" class=" btn btn-primary btn-block btn-mini" style="max-height: 30px;max-width: 80px;" title="It's free!" href="http://wajug.fikket.com/events/{{selected.fikket}}/orders/new">
+              <span ng-bind-html-unsafe="contents('book', true)"></span> <i class="icon-shopping-cart icon-white"></i>
+            </a>
+            <a ng-show="selected.meetup" target="_blank" class=" btn btn-primary btn-block btn-mini" style="max-height: 30px;max-width: 80px;" title="It's free!" href="http://www.meetup.com/wajug-be/events/{{selected.meetup}}">
+              <span ng-bind-html-unsafe="contents('book', true)"></span> <i class="icon-shopping-cart icon-white"></i>
             </a>
           </p>
         </div>

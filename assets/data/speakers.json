@@ -114,10 +114,10 @@
     "linkedin": "http://www.linkedin.com/in/laurenteschenauer",
     "name": "Laurent Eschenauer",
     "site": "https://eschnou.com",
-    "logo": "",
+    "logo": "eschnou.jpg",
     "bio":{
-      "en":"TBA",
-      "fr":"TBA"
+      "en":"<p>Laurent est un architecte logiciel expérimenté, passionné par laconception de systèmes distribués complexes.</p> <p>Depuis l'automne 2010, ilest co-fondateur et CTO de ComodIT, une jeune start-up liégeoise développant une plateforme web de gestion d'infrastructure dans le <em>cloud</em>.</p> <p>Avant l'aventure ComodIT, il a été chercheur chez Vodafone et consultant au Boston Consulting Group.</p> <p>Laurent est également actif dans le monde open source avec des projets comme storytlr, indiewebcamp, et nodecopter.</p> <p>Il a un diplôme d'ingénieur civil de l'ULg et une maîtrise en Electrical Engineering de l'université du Maryland.</p>",
+      "fr":"<p>Laurent est un architecte logiciel expérimenté, passionné par laconception de systèmes distribués complexes.</p> <p>Depuis l'automne 2010, ilest co-fondateur et CTO de ComodIT, une jeune start-up liégeoise développant une plateforme web de gestion d'infrastructure dans le <em>cloud</em>.</p> <p>Avant l'aventure ComodIT, il a été chercheur chez Vodafone et consultant au Boston Consulting Group.</p> <p>Laurent est également actif dans le monde open source avec des projets comme storytlr, indiewebcamp, et nodecopter.</p> <p>Il a un diplôme d'ingénieur civil de l'ULg et une maîtrise en Electrical Engineering de l'université du Maryland.</p>"
     }
   },
   "ahortz" : {
