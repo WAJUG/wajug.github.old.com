@@ -193,7 +193,7 @@
     },
     "subject": {
       "en": "Mobile development strategies - The Good, the Bad and the Uglies...",
-      "fr": "Stratégies de développement Mobile - Le Bon, le Brute et les Méchants..."
+      "fr": "Stratégies de développement Mobile - Le Bon, la Brute et les Méchants..."
     },
     "title": {
       "en": "Mobile development strategies",
@@ -201,7 +201,7 @@
     },
     "subtitle":{
       "en":"The Good, the Bad and the Uglies...",
-      "fr":"Le Bon, le Brute et les Méchants..."
+      "fr":"Le Bon, la Brute et les Méchants..."
     },
     "synopsis": {
       "en" : "<p>In this talk I'll go over the different ways of building mobile application and getting those applications out on the market onto all kinds of mobile devices.</p> <p>We'll not only discuss native development on the primary mobile platforms, but we'll also take a closer look at the hybrid and web based approaches.</p> <p>We will not only focus on key technologies such as Java/Android/iOS/HTML5/PhoneGap/Appcelerator/Sencha/jQueryMobile/<complete with other mobile buzzwords>, but will also focus on TCO, platform affinity, quality, look and feel, design and the economics related to mobile development.</p>",
