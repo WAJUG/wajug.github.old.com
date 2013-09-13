@@ -193,7 +193,7 @@
     },
     "subject": {
       "en": "Mobile development strategies - The Good, the Bad and the Uglies...",
-      "fr": "Stratégies de développement Mobile - Le Bon, le Brute et les Méchants..."
+      "fr": "Stratégies de développement Mobile - Le Bon, la Brute et les Méchants..."
     },
     "title": {
       "en": "Mobile development strategies",
@@ -201,11 +201,11 @@
     },
     "subtitle":{
       "en":"The Good, the Bad and the Uglies...",
-      "fr":"Le Bon, le Brute et les Méchants..."
+      "fr":"Le Bon, la Brute et les Méchants..."
     },
     "synopsis": {
       "en" : "<p>In this talk I'll go over the different ways of building mobile application and getting those applications out on the market onto all kinds of mobile devices.</p> <p>We'll not only discuss native development on the primary mobile platforms, but we'll also take a closer look at the hybrid and web based approaches.</p> <p>We will not only focus on key technologies such as Java/Android/iOS/HTML5/PhoneGap/Appcelerator/Sencha/jQueryMobile/<complete with other mobile buzzwords>, but will also focus on TCO, platform affinity, quality, look and feel, design and the economics related to mobile development.</p>",
-      "fr" : "<p>Dans cette présentation, je vais passer sur les différentes directions possible pour la création d'une application mobile et faire entrer de telles applications sur le marché pour tous les types de devices.</p> <p>Nous n'allons pas uniquement discuter le développement en natif pour les plateformes mobiles principales, mais nous allons aussi regarder de plus près aux approches hybrides et web.</p> <p>Nous n'allons pas seulement se focaliser sur les techonologies phares telles que Java/Android/iOS/HTML5/PhoneGap/Appcelerator/Sencha/jQueryMobile/..., mais nous allons aussi nous attarder sur le TCO (Total Cost of Ownership), l'affinité avec la plateforme, l'apparence, le design et les économies liées aux développement mobile.</p>"
+      "fr" : "<p>Dans cette présentation, je vais passer sur les différentes directions possibles pour la création d'une application mobile et faire entrer de telles applications sur le marché pour tous les types de devices.</p> <p>Nous n'allons pas uniquement discuter le développement en natif pour les plateformes mobiles principales, mais nous allons aussi regarder de plus près aux approches hybrides et web.</p> <p>Nous ne nous focaliserons pas seulement sur les technologies phares telles que Java/Android/iOS/HTML5/PhoneGap/Appcelerator/Sencha/jQueryMobile/..., mais nous considérerons aussi le TCO (Total Cost of Ownership), l'affinité avec la plateforme, l'apparence, le design et les économies liées aux développements mobiles.</p>"
     },
     "description" : "mobile-dev-strat",
     "speaker": "ddewaele",
@@ -220,12 +220,12 @@
       "fr": "08/10/2013 19h00"
     },
     "subject": {
-      "en": "TweetWallPro: TBA",
-      "fr": "TweetWallPro: TBA"
+      "en": "TweetWallPro Inside Out",
+      "fr": "TweetWallPro Inside Out"
     },
     "title": {
-      "en": "TweetWallPro: TBA",
-      "fr": "TweetWallPro: TBA"
+      "en": "TweetWallPro Inside Out",
+      "fr": "TweetWallPro Inside Out"
     },
     "subtitle":{
       "en": "",
