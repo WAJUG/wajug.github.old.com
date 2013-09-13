@@ -6,7 +6,7 @@
       "fr": "Plus que de l'IT"
     },
     "image": "nextlab.png",
-    "site": "http://nextlab.be"
+    "site": "nextlab.be"
   },
   {
     "name":"Arexo",
@@ -15,7 +15,7 @@
       "fr": "Votre société de consultance IT"
     },
     "image": "arexo.jpg",
-    "site": "http://arexo.be"
+    "site": "arexo.be"
   },
   {
     "name":"La Forge",
@@ -24,7 +24,7 @@
       "fr": "Culture, Créativité, Utilité et Ouverture"
     },
     "image": "laforge.png",
-    "site": "http://laforge-coworking.be/"
+    "site": "laforge-coworking.be/"
   },
   {
     "name":"Manex",
@@ -33,7 +33,7 @@
       "fr": "Network & Software Engineering"
     },
     "image": "manex.jpeg",
-    "site": "http://manex.biz"
+    "site": "manex.biz"
   },
   {
     "name":"O'REILLY",
@@ -42,6 +42,6 @@
       "fr": "Create more value than you capture."
     },
     "image": "oreilly.gif",
-    "site": "http://oreilly.com/"
+    "site": "oreilly.com/"
   }
 ]
