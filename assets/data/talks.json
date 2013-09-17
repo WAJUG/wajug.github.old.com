@@ -232,8 +232,8 @@
       "fr": ""
     },
     "synopsis": {
-      "en": "TBA",
-      "fr": "TBA"
+      "en": "<p>Mener à bien un projet et le faire vivre engendre souvent la nécessite de faire cohabiter différentes technologies, mais surtout de les faire évoluer !</p> <p>Dans sa présentation, Pascal prendre le \"use-case\" TweetWall Pro comme exemple illustratif. Il y abordera les aspects architecturaux hardware et software du projet depuis leur genèse jusqu'à aujourd'hui et au-delà, expliquera les contraintes internes ou externes que l'on rencontre lors de la mise en place d'un tel projet en s'attardant plus particulièrement sur Twitter, ses applications, son API.</p>",
+      "fr": "<p>Mener à bien un projet et le faire vivre engendre souvent la nécessite de faire cohabiter différentes technologies, mais surtout de les faire évoluer !</p> <p>Dans sa présentation, Pascal prendre le \"use-case\" TweetWall Pro comme exemple illustratif. Il y abordera les aspects architecturaux hardware et software du projet depuis leur genèse jusqu'à aujourd'hui et au-delà, expliquera les contraintes internes ou externes que l'on rencontre lors de la mise en place d'un tel projet en s'attardant plus particulièrement sur Twitter, ses applications, son API.</p>"
     },
     "description" : "tweet-wall-pro",
     "speaker": "palberty",
