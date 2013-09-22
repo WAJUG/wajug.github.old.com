@@ -4,7 +4,8 @@
     "image":"https://si0.twimg.com/profile_images/378800000373861280/4b1be1b9600913604bed891a097a141e_bigger.png",
     "name":"Open Hack Liège",
     "text":"Come on and Hack on",
-    "date": "19 Sept. (19:00)"
+    "date": "19 Sept. (19:00)",
+    "past": true
   },
   {
     "href":"http://www.devoxx.com/display/4KIDSBE/Home",

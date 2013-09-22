@@ -132,7 +132,7 @@ function StartCtrl($scope, languages, contents, talks, elsewheres) {
 
   $scope.elsewhereInterval = "3000"
   elsewheres.then(function(elsewheres) {
-    $scope.elsewheres = elsewheres;
+    $scope.elsewheres = elsewheres.filter(function(e) { return angular.isUndefined(e.past) || !e.past; });
   });
 
   $scope.translate = function(o) {
