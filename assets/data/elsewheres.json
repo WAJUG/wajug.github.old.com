@@ -27,5 +27,12 @@
     "name":"Devoxx",
     "text":"BORN TO BE",
     "date": "11-15 Nov."
+  },
+  {
+    "href":"http://strataconf.com/strataeu2013/?cmp=ba-strata-confreg-home-steu13_ug_banners",
+    "image":"http://cdn.oreilly.com/oreilly/ug/promos/strataeu/2013/210x60.gif",
+    "name":"Strata EU",
+    "text":"O'Reilly Strata Conference in London",
+    "date": "11-13 Nov."
   }
 ]
