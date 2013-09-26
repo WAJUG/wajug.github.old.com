@@ -34,5 +34,12 @@
     "name":"Strata EU",
     "text":"O'Reilly Strata Conference in London",
     "date": "11-13 Nov."
+  },
+  {
+    "href":"http://velocityconf.com/velocityeu2013/?cmp=ba-velocity-confreg-home-vleu13_ug_banners",
+    "image":"http://cdn.oreillystatic.com/oreilly/ug/promos/velocityeu/2013/VLEU_125x125_ug.gif",
+    "name":"Velocity",
+    "text":"O'Reilly Velocity Conference in London",
+    "date": "13-15 Nov."
   }
 ]
