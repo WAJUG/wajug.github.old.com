@@ -132,7 +132,8 @@ function StartCtrl($scope, languages, contents, talks, elsewheres) {
 
   $scope.elsewhereInterval = "3000"
   elsewheres.then(function(elsewheres) {
-    $scope.elsewheres = elsewheres.filter(function(e) { return angular.isUndefined(e.past) || !e.past; });
+    var now = new Date();
+    $scope.elsewheres = elsewheres.filter(function(e) { return (new Date(e.endsAt)) > now; });
   });
 
   $scope.translate = function(o) {
