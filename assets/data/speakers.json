@@ -102,11 +102,11 @@
     "twitter": "rvanbruggen",
     "linkedin": "http://be.linkedin.com/in/rikvanbruggen/",
     "name": "Rik Van Bruggen",
-    "site": "",
-    "logo": "",
+    "site": "http://www.neo4j.org/",
+    "logo": "https://si0.twimg.com/profile_images/195275920/square-logo-no-text-2_bigger.png",
     "bio":{
-      "en":"TBA",
-      "fr":"TBA"
+      "en":"Rik Van Bruggen is the regional territory manager for Neo Technology for the BeNeLux, UK, and Nordics. He has been working for startup companies for most of his career, and while he has a fond technical interest, really is passionate about business - and about Belgian Beer.",
+      "fr":" Rik Van Bruggen est le territory manager régional de Neo Technology, responsable pour le Benelux entre autres. Il a passé sa carrière en travaillant pour des startups technologiques - en utilisant sa passion pour la techno, le business - et la bonne bière Belge."
     }
   },
   "leschenauer" : {
