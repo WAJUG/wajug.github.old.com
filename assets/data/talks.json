@@ -240,7 +240,7 @@
     "location": "cownamur",
     "fikket": null,
     "meetup": 141261462,
-    "done": false
+    "done": true
   },
   {
   	"date": {
@@ -256,17 +256,18 @@
       "fr": "Neo4j - The Graph Database"
     },
     "subtitle":{
-      "en": "",
-      "fr": ""
+      "en": "To help the world make sense of data",
+      "fr": "To help the world make sense of data"
     },
     "synopsis": {
-      "en": "TBA",
-      "fr": "TBA"
+      "en": "<p>Tout le monde parle du mouvement \"Big Data\", en se focalisant sur les aspects de volumétrie et scalability de la nouvelle génération d'applications. Mais, de nos jours, il y a d'autres perspectives intéressantes des données: pour rendre utile de gros volumes, il faut pouvoir gérer la complexité des données - sinon on a de la masse, et non des informations comprehensibles. C'est exactement là que les bases de données graphes comme Neo4J pourraient nous aider - \"to help the world make sense of data\".</p> <p>Dans cette session du Wajug, Rik Van Bruggen - membre de l'equipe Neo Technology qui commercialise Neo4j - nous introduira le sujet des graph databases, et expliquera avec des exemples concrets où neo4j pourrait nous être utile dans nos projets actuels et futurs.</p>",
+      "fr": "<p>Tout le monde parle du mouvement \"Big Data\", en se focalisant sur les aspects de volumétrie et scalability de la nouvelle génération d'applications. Mais, de nos jours, il y a d'autres perspectives intéressantes des données: pour rendre utile de gros volumes, il faut pouvoir gérer la complexité des données - sinon on a de la masse, et non des informations comprehensibles. C'est exactement là que les bases de données graphes comme Neo4J pourraient nous aider - \"to help the world make sense of data\".</p> <p>Dans cette session du Wajug, Rik Van Bruggen - membre de l'equipe Neo Technology qui commercialise Neo4j - nous introduira le sujet des graph databases, et expliquera avec des exemples concrets où neo4j pourrait nous être utile dans nos projets actuels et futurs.</p>"
     },
     "description" : "neo4j",
     "speaker": "rvbruggen",
     "location": "laforge",
     "fikket": null,
+    "meetup": 144639592,
     "done": false
   },
   {
