@@ -268,7 +268,7 @@
     "location": "laforge",
     "fikket": null,
     "meetup": 144639592,
-    "done": false
+    "done": true
   },
   {
   	"date": {
@@ -295,7 +295,7 @@
     "speaker": "leschenauer",
     "location": "laforge",
     "fikket": null,
-    "done": false
+    "done": true
   },
   {
   	"date": {
@@ -322,6 +322,7 @@
     "speaker": "ahortz",
     "location": "laforge",
     "fikket": null,
+    "meetup": 152472832,
     "done": false
   }
 
