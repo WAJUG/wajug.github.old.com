@@ -1,0 +1,14 @@
+{
+  "trainers": [
+    {
+      "image":"https://pbs.twimg.com/profile_images/3395467545/2eecddd784d3f5f91a040cedc2ebea0f.png",
+      "name":"Andy Petrella",
+      "text":"@nooostab"
+    }
+    ,{
+      "image":"https://pbs.twimg.com/profile_images/915020061/stephane.rondal_gmail.com_b711d754.jpg",
+      "name":"Stéphane Rondal",
+      "text":"@stephanerondal"
+    }
+  ]
+}

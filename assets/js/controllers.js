@@ -66,6 +66,9 @@ function NavBarCtrl($scope, languages, contents) {
     mission:    function() {
                   return translate(languages, _contents, ["mission"]);
                 },
+    d4k:     function() {
+                  return translate(languages, _contents, ["d4k"]);
+                },
     events:     function() {
                   return translate(languages, _contents, ["events"]);
                 },
@@ -127,7 +130,6 @@ function StartCtrl($scope, languages, contents, talks, elsewheres) {
               $scope.upcoming.push(t);
             }
           });
-          console.dir($scope.upcoming);
         });
 
   $scope.elsewhereInterval = "3000"
@@ -183,7 +185,6 @@ function EventsCtrl($scope, languages, contents, talks) {
   talks.then(function(talks) {
           $scope.talks = talks;
           angular.forEach($scope.talks, function(t) {
-            console.dir($scope.selected)
             if (!$scope.selected && !t.done) {
               $scope.select(t);
             }
@@ -254,8 +255,6 @@ function SponsoringCtrl($scope, $timeout, languages, sponsoring, contents) {
   sponsoring.then(function(sponsoring) {
             $scope.prices  = sponsoring.prices;
             $scope.advantages  = sponsoring.advantages;
-            console.dir($scope.prices);
-            console.dir($scope.advantages);
           });
 
 
@@ -302,3 +301,34 @@ function SponsoringCtrl($scope, $timeout, languages, sponsoring, contents) {
   }
 }
 SponsoringCtrl.$inject = ["$scope", "$timeout", "languages", "sponsoring", "contents"];
+
+function D4KCtrl($scope, $timeout, languages, d4k, contents) {
+  $scope.trainersInterval = "2000";
+
+  d4k.then(function(d4k) {
+            $scope.trainers  = d4k.trainers;
+            $scope.practicalinfo  = d4k.practicalinfo;
+          });
+
+  var _contents;
+  contents.async()
+          .then(function(contents) {
+            _contents = contents;
+          });
+
+
+  $scope.translate = function(o) {
+    if (angular.isObject(o)) {
+      return languages.translate(o);
+    }
+  };
+
+  $scope.contents = function(pathString, absolute) {
+    var path = pathString.split(/\./g);
+    if (!absolute) {
+      path.unshift("d4k");
+    }
+    return translate(languages, _contents, path);
+  }
+}
+D4KCtrl.$inject = ["$scope", "$timeout", "languages", "d4k", "contents"];

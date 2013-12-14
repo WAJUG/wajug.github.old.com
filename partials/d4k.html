@@ -1,0 +1,79 @@
+<h1 ng-bind-html-unsafe="contents('title')"></h1>
+<div class="container" style="padding-top: 80px">
+  <div id="d4k_main">
+    <h1>Wajug organise Devoxx 4 Kids</h1>
+    <div id="d4k_wajug" class="row-fluid">
+      <div id="d4k_about" class="span8">
+        <div id="d4k_us">
+          ce qu'on veut faire
+        </div>
+        <div id="d4k_with">
+          une intro à D4K en général
+        </div>
+      </div>
+      <div id="d4k_vids" class="span4">
+        <h3>Les vids</h3>
+        <ul class="thumbnails">
+          <li class="span6">
+            <div class="thumbnail">
+              <img data-src="holder.js/300x200" alt="">
+              <h3>Thumbnail label</h3>
+              <p>Thumbnail caption...</p>
+            </div>
+          </li>
+          <li class="span6">
+            <div class="thumbnail">
+              <img data-src="holder.js/300x200" alt="">
+              <h3>Thumbnail label</h3>
+              <p>Thumbnail caption...</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div id="d4k_parctical_info">comment participer</div>
+    <div id="d4k_registration">un formulaire ou lien pour s'enregistrer</div>
+    <div id="d4k_sessions">
+    <div class="well">
+      <h3 ng-bind-html-unsafe="contents('trainers.title')"></h3>
+      <div class="row-fluid">
+        <div class="span9">
+          <h4>Les sessions prévues</h4>
+          <ul>
+            <li>Scratch</li>
+            <li>Nao</li>
+          </ul>
+        </div>
+        <div class="span3">
+          <h4>Les animateurs</h4>
+          <carousel interval="trainersInterval">
+            <slide style="min-height:200px" ng-repeat="e in trainers" active="e.active">
+              <img ng-src="{{e.image}}" style="margin:auto;">
+              <div class="carousel-caption">
+                <h4>{{e.name}}</h4>
+                <p>{{e.text}}</p>
+              </div>
+            </slide>
+          </carousel>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="d4k_links">
+    <h3>Liens vers les matériels disponibles pour les gamins</h3>
+  </div>
+  <div id="d4k_links">
+    <h2>Les sponsors pour cet event</h2>
+    <div class="sponsors">
+      <div ng-repeat="sponsor in sponsors" class="sponsor" title="Click to flip">
+        <div class="sponsorFlip">
+          <img src="assets/images/sponsors/{{sponsor.image}}" alt="More about {{sponsor.name}}" />
+        </div>
+        <div class="sponsorData">
+          <div class="sponsorDescription" ng-bind-html-unsafe="translate(sponsor.description)"></div>
+          <div class="sponsorURL"><a href="http://{{sponsor.site}}" target="_blank">{{sponsor.name}}</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
