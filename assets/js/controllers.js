@@ -305,6 +305,27 @@ SponsoringCtrl.$inject = ["$scope", "$timeout", "languages", "sponsoring", "cont
 function D4KCtrl($scope, $timeout, languages, d4k, contents) {
   $scope.trainersInterval = "2000";
 
+  $scope.sponsors = [
+    {
+      "name":"Devoxx4Kids",
+      "description": {
+        "en": "Devoxx 4 Kids",
+        "fr": "Devoxx 4 Kids"
+      },
+      "image": "devoxx4kids.png",
+      "site": "www.devoxx.com/display/4KIDS/Home"
+    },
+    {
+      "name":"EVS",
+      "description": {
+        "en": "EVS",
+        "fr": "EVS"
+      },
+      "image": "evs.png",
+      "site": "www.evs.com"
+    }
+  ];
+
   d4k.then(function(d4k) {
             $scope.trainers  = d4k.trainers;
             $scope.practicalinfo  = d4k.practicalinfo;
