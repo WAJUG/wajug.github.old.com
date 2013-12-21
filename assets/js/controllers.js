@@ -119,7 +119,13 @@ function StartCtrl($scope, languages, contents, talks, elsewheres) {
   talks.then(function(talks) {
           $scope.talks = talks;
           $scope.upcoming = [];
+          var now = new Date();
           angular.forEach(talks, function(t) {
+            if (angular.isUndefined(t.done)) {
+              if (!angular.isUndefined(t.endsAt)) {
+                t.done = (new Date(t.endsAt)) < now;
+              }
+            }
             if (!$scope.nextTalk && t.done == false) {
               $scope.nextTalk = t;
             }
@@ -127,7 +133,6 @@ function StartCtrl($scope, languages, contents, talks, elsewheres) {
               $scope.upcoming.push(t);
             }
           });
-          console.dir($scope.upcoming);
         });
 
   $scope.elsewhereInterval = "3000"
@@ -183,7 +188,12 @@ function EventsCtrl($scope, languages, contents, talks) {
   talks.then(function(talks) {
           $scope.talks = talks;
           angular.forEach($scope.talks, function(t) {
-            console.dir($scope.selected)
+            var now = new Date();
+            if (angular.isUndefined(t.done)) {
+              if (!angular.isUndefined(t.endsAt)) {
+                t.done = (new Date(t.endsAt)) < now;
+              }
+            }
             if (!$scope.selected && !t.done) {
               $scope.select(t);
             }

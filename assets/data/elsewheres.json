@@ -46,5 +46,13 @@
     "text":"O'Reilly Velocity Conference in London",
     "date": "13-15 Nov.",
     "endsAt": "16 Nov. 2013"
+  },
+  {
+    "href":"https://fosdem.org/2014/",
+    "image":"assets/images/elsewhere/fossdem14.png",
+    "name":"Fossdem 2014",
+    "text":"OSS: meet, share & collaborate.",
+    "date": "1-2 Feb.",
+    "endsAt": "3 Feb. 2014"
   }
 ]
