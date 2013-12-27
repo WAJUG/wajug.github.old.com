@@ -323,7 +323,36 @@
     "location": "laforge",
     "fikket": null,
     "meetup": 152472832,
-    "endsAt": "10 Dec. 2013"
+	"endsAt": "10 Dec. 2013",	
+	"done": true
+  },
+  {
+  	"date": {
+      "en": "01/28/2014 7PM",
+      "fr": "28/01/2014 19h00"
+    },
+    "subject": {
+      "en": "Lean startup for developers",
+      "fr": "Lean startup pour les développeurs"
+    },
+    "title": {
+      "en": "Lean startup for developers",
+      "fr": "Lean startup pour les développeurs"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>En tant qu'ingénieurs et développeurs, nous avons un pouvoir incroyable dans les mains. Nous maitrisons la technologie qui est en train de réorganiser la société humaine à tous les niveaux et qui est en train de nous amener dans une nouvelle ère. Malheureusement, souvent, nous nous limitons nous-mêmes dans ce que nous faisons de ce pouvoir, nous pensons qu'il nous manque quelque chose d'indispensable pour créer notre propre emploi, pour inventer notre propre révolution. Nous pensons trop petit et nous nous enfermons dans un métier qui nous amène à mettre notre pouvoir au service d'institutions et de domaines qui ne nous font pas vibrer.</p><p>Le but de cette présentation est de vous montrer que beaucoup de nos croyances sont souvent limitantes et fausses, et qu'il existe des méthodes et des outils rigoureux qui permettent à des 'teckos' comme nous de faire une vraie différence en créant notre propre business.</p>",
+      "fr": "<p>En tant qu'ingénieurs et développeurs, nous avons un pouvoir incroyable dans les mains. Nous maitrisons la technologie qui est en train de réorganiser la société humaine à tous les niveaux et qui est en train de nous amener dans une nouvelle ère. Malheureusement, souvent, nous nous limitons nous-mêmes dans ce que nous faisons de ce pouvoir, nous pensons qu'il nous manque quelque chose d'indispensable pour créer notre propre emploi, pour inventer notre propre révolution. Nous pensons trop petit et nous nous enfermons dans un métier qui nous amène à mettre notre pouvoir au service d'institutions et de domaines qui ne nous font pas vibrer.</p><p>Le but de cette présentation est de vous montrer que beaucoup de nos croyances sont souvent limitantes et fausses, et qu'il existe des méthodes et des outils rigoureux qui permettent à des 'teckos' comme nous de faire une vraie différence en créant notre propre business.</p>"
+    },
+    "description" : "lean-startup",
+    "speaker": "sarbogast",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null
   }
+
 
 ]

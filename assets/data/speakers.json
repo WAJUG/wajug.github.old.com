@@ -130,6 +130,17 @@
       "en":"<p>Alan est actuellement Scrum Master pour la société Ogone. Ogone est un acteur spécialisé dans les services de paiement électronique.</p><p>En plus de ses 10 années d’expérience dans le monde IT, il termine actuellement un master en informatique aux facultés universitaires Notre Dame de la Paix à Namur.</p><p>Alan est passionné par l’informatique depuis que ses doigts se sont posés sur le clavier d’un Commodore 64. Depuis sa curiosité l’a amené à explorer les différentes techniques de développement logiciel tel que le unit testing, le développement mobile, l’intégration continue et récemment Scrum et d’autres méthodes Agile.</p>",
       "fr":"<p>Alan est actuellement Scrum Master pour la société Ogone. Ogone est un acteur spécialisé dans les services de paiement électronique.</p><p>En plus de ses 10 années d’expérience dans le monde IT, il termine actuellement un master en informatique aux facultés universitaires Notre Dame de la Paix à Namur.</p><p>Alan est passionné par l’informatique depuis que ses doigts se sont posés sur le clavier d’un Commodore 64. Depuis sa curiosité l’a amené à explorer les différentes techniques de développement logiciel tel que le unit testing, le développement mobile, l’intégration continue et récemment Scrum et d’autres méthodes Agile.</p>"
     }
+  },
+  "sarbogast" : {
+    "twitter": "sarbogast",
+    "linkedin": "be.linkedin.com/in/sebastienarbogast",
+    "name": "Sebastien Arbogast",
+    "site": "http://sebastien-arbogast.com/",
+    "logo": "",
+    "bio":{
+      "en":"<p>Sébastien Arbogast est consultant indépendant et entrepreneur. Il développe des systèmes d'entreprise (Java, Groovy, Grails) et des applications mobiles (iOS) depuis 8 ans, notamment en utilisant des méthodologies agiles (Scrum, Kanban). En 2011, après avoir gagné le startup weekend de Bruxelles, il fonde Kodesk, une société de partage de bureaux entre entreprises. Grâce à cette expérience il développe ses compétences dans le domaine du lean startup qu'il utilisera intensivement. En 2012, avec Olivier Verbeke, Fostering Ideas asbl et Creative Wallonia, il coorganise la première saison de NEST'up, le premier accélérateur de startup à l'américaine en Belgique, dont il développe également la plateforme web et où il coache deux équipes.</p>",
+      "fr":"<p>Sébastien Arbogast est consultant indépendant et entrepreneur. Il développe des systèmes d'entreprise (Java, Groovy, Grails) et des applications mobiles (iOS) depuis 8 ans, notamment en utilisant des méthodologies agiles (Scrum, Kanban). En 2011, après avoir gagné le startup weekend de Bruxelles, il fonde Kodesk, une société de partage de bureaux entre entreprises. Grâce à cette expérience il développe ses compétences dans le domaine du lean startup qu'il utilisera intensivement. En 2012, avec Olivier Verbeke, Fostering Ideas asbl et Creative Wallonia, il coorganise la première saison de NEST'up, le premier accélérateur de startup à l'américaine en Belgique, dont il développe également la plateforme web et où il coache deux équipes.</p>"
+    }
   }
 
 }
