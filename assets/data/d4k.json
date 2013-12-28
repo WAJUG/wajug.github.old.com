@@ -10,5 +10,25 @@
       "name":"Stéphane Rondal",
       "text":"@stephanerondal"
     }
+    ,{
+      "image":"https://pbs.twimg.com/profile_images/916148725/smosena_gmail.com_0bf0f7f7.jpg",
+      "name":"Simone Mosena",
+      "text":"@simonemosena"
+    }
+    ,{
+      "image":"https://pbs.twimg.com/profile_images/2848090876/2141227c1a6b5458df30e85cafcf8ae7.jpeg",
+      "name":"Stéphane Nicoll",
+      "text":"@snicoll"
+    }
+    ,{
+      "image":"https://pbs.twimg.com/profile_images/1210005546/dad-01.jpg",
+      "name":"Daniel de Luca",
+      "text":"@danieldeluca"
+    }
+    ,{
+      "image":"https://pbs.twimg.com/profile_images/1178257582/Photo_on_2010-11-29_at_10.25.jpg",
+      "name":"Said Eloudrhiri",
+      "text":"@eloudsa"
+    }
   ]
 }

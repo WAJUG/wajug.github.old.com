@@ -66,7 +66,7 @@ function NavBarCtrl($scope, languages, contents) {
     mission:    function() {
                   return translate(languages, _contents, ["mission"]);
                 },
-    d4k:     function() {
+    d4k:        function() {
                   return translate(languages, _contents, ["d4k"]);
                 },
     events:     function() {
