@@ -1,32 +1,32 @@
 {
   "trainers": [
     {
-      "image":"https://pbs.twimg.com/profile_images/3395467545/2eecddd784d3f5f91a040cedc2ebea0f.png",
+      "image":"assets/images/d4k/trainers/apetrella.png",
       "name":"Andy Petrella",
       "text":"@nooostab"
     }
     ,{
-      "image":"https://pbs.twimg.com/profile_images/915020061/stephane.rondal_gmail.com_b711d754.jpg",
+      "image":"assets/images/d4k/trainers/srondal.jpg",
       "name":"Stéphane Rondal",
       "text":"@stephanerondal"
     }
     ,{
-      "image":"https://pbs.twimg.com/profile_images/916148725/smosena_gmail.com_0bf0f7f7.jpg",
+      "image":"assets/images/d4k/trainers/smosena.jpg",
       "name":"Simone Mosena",
       "text":"@simonemosena"
     }
     ,{
-      "image":"https://pbs.twimg.com/profile_images/2848090876/2141227c1a6b5458df30e85cafcf8ae7.jpeg",
+      "image":"assets/images/d4k/trainers/snicoll.jpeg",
       "name":"Stéphane Nicoll",
       "text":"@snicoll"
     }
     ,{
-      "image":"https://pbs.twimg.com/profile_images/1210005546/dad-01.jpg",
+      "image":"assets/images/d4k/trainers/ddeluca.jpg",
       "name":"Daniel de Luca",
       "text":"@danieldeluca"
     }
     ,{
-      "image":"https://pbs.twimg.com/profile_images/1178257582/Photo_on_2010-11-29_at_10.25.jpg",
+      "image":"assets/images/d4k/trainers/seloudrhiri.jpg",
       "name":"Said Eloudrhiri",
       "text":"@eloudsa"
     }

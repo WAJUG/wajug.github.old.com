@@ -1,13 +1,17 @@
 <div class="container" style="padding-top: 80px">
   <div id="d4k_main">
     <h1>Wajug organise Devoxx 4 Kids</h1>
-  	<h4>Pourquoi?</h4>
+
 		<div>
-			Programmer c’est écrire des instructions pour un ordinateur afin de faire des jeux, comme Angry Birds, mais aussi des applications, des sites webs, etc.
+			<p><i>"Vos enfants jouent à des jeux sur l'ordinateur. Bientôt ils pourront faire leurs propres jeux!"</i><br/>
+				Inscrivez vos enfants à la journée du samedi 8 février, et ils apprendront à programmer des jeux et des robots!</p>
+			<p>Programmer c’est écrire des instructions pour un ordinateur afin de faire des jeux, comme Angry Birds, mais aussi des applications, des sites webs, etc.
 			En apprenant à programmer, vos enfants pourront eux-mêmes créer de telles choses.
-			Et qui sait, peut-être l’un d’eux deviendra-t-il le prochain Mark Zuckerberg, créateur de Facebook!
+			Et qui sait, peut-être l’un d’eux deviendra-t-il le prochain Mark Zuckerberg, créateur de Facebook!</p>
 		</div>
 
+		<div class="row-fluid">
+		<div class="span7">
 		<h4>Comment s'inscrire?</h4>
 		<div id="registerChildForm" style="min-height: 40px;">
       <script src="http://cdn.jotfor.ms/static/feedback2.js?3.1.1745" type="text/javascript">
@@ -19,7 +23,7 @@
             new JotformFeedback({
               formId:'33597708620865',
               base:'http://jotformeu.com/',
-              windowTitle:'Contact Form with Blue Envelope Theme',
+              windowTitle:'Inscription',
               background:'#FFA500',
               fontColor:'#FFFFFF',
               type:false,
@@ -44,7 +48,7 @@
       </script>
       <span class="alert alert-warn wait">En attente du formulaire</span>
     </div>
-		<div class="alert alert-error"><small>Afin d'encadrer au mieux les enfants, les places sont limitées aux 30 premières inscriptions.</small></div>
+		<div class="alert alert-warn"><small>Afin d'encadrer au mieux les enfants, les places sont limitées aux 30 premières inscriptions.</small></div>
 
 		<h4>Qui?</h4>
 		<div>Ce stage s'adresse aux enfants de 10 à 14 ans.</div>
@@ -62,12 +66,9 @@
 		<h4>Combien?</h4>
 		<div>10€ vous seront demandés en guise de participation aux frais, tels que assurances, snacks et boissons fournies pendant l'activité. </div>
 
-		<h4>Qui sommes-nous?</h4>
-		<div>Le WAJUG est un groupe d’utilisateurs qui se rencontrent régulièrement pour parler de leur passion: la programmation, et tout ce qui touche au développement de logiciels, applications, sites webs, etc.</div>
 
-
-
-    <div id="d4k_vids" class="span4">
+	</div>
+    <div id="d4k_vids" class="span5">
       <h3>Ambiance au Devoxx4Kids</h3>
       <a href="http://www.devoxx.com/display/4KIDS/Home" target="_blank"><img src="assets/images/d4k/sponsors/devoxx4kids.png"/></a>
 
@@ -75,6 +76,13 @@
 
 			<p>Ça vous tente? Alors inscrivez-vous et <a href="http://www.facebook.com/wajug.be">parlez en autour de vous!</a></p>
     </div>
+</div>
+
+
+		<h4>Qui sommes-nous?</h4>
+		<div>Le WAJUG est un groupe d’utilisateurs qui se rencontrent régulièrement pour parler de leur passion: la programmation, et tout ce qui touche au développement de logiciels, applications, sites webs, etc.</div>
+
+
 
     <div id="d4k_parctical_info">&nbsp;</div>
 
@@ -87,16 +95,13 @@
           <h4>Les sessions prévues</h4>
           <tabset>
             <tab heading="Mindstorms">
-              Mindstorms
-              <strong>lien vers matos</strong>
+              <strong>Plus d'infos à venir sur les Lego Mindstorms...</strong>
             </tab>
             <tab heading="Scratch">
-              Scratch
-              <strong>lien vers matos</strong>
+              <strong>Plus d'infos à venir sur les Scratch...</strong>
             </tab>
             <tab heading="Nao">
-              Nao
-              <strong>lien vers matos</strong>
+              <strong>Plus d'infos à venir sur les robots Nao...</strong>
             </tab>
           </tabset>
         </div>
@@ -104,7 +109,7 @@
           <h4>Les animateurs</h4>
           <a ng-click="joinUsForm = !joinUsForm" class="btn btn-success btn-block btn-mini d4k_joinus">Vous aussi?</a>
           <carousel interval="trainersInterval">
-            <slide style="min-height:200px" ng-repeat="e in trainers" active="e.active">
+            <slide style="min-height:245px" ng-repeat="e in trainers" active="e.active">
               <img ng-src="{{e.image}}" style="margin:auto;">
               <div class="carousel-caption">
                 <h4>{{e.name}}</h4>
