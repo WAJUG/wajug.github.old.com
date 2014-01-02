@@ -66,6 +66,9 @@ function NavBarCtrl($scope, languages, contents) {
     mission:    function() {
                   return translate(languages, _contents, ["mission"]);
                 },
+    d4k:        function() {
+                  return translate(languages, _contents, ["d4k"]);
+                },
     events:     function() {
                   return translate(languages, _contents, ["events"]);
                 },
@@ -264,8 +267,6 @@ function SponsoringCtrl($scope, $timeout, languages, sponsoring, contents) {
   sponsoring.then(function(sponsoring) {
             $scope.prices  = sponsoring.prices;
             $scope.advantages  = sponsoring.advantages;
-            console.dir($scope.prices);
-            console.dir($scope.advantages);
           });
 
 
@@ -312,3 +313,82 @@ function SponsoringCtrl($scope, $timeout, languages, sponsoring, contents) {
   }
 }
 SponsoringCtrl.$inject = ["$scope", "$timeout", "languages", "sponsoring", "contents"];
+
+function D4KCtrl($scope, $timeout, languages, d4k, contents) {
+  $scope.trainersInterval = "2000";
+
+  $scope.sponsors = [
+   {
+     "name":"Institut Saint-Laurent",
+     "description": {
+       "en": "Institut Saint-Laurent",
+       "fr": "Institut Saint-Laurent"
+     },
+     "image": "isl.png",
+     "site": "www.isl.be"
+   },
+    {
+      "name":"Devoxx4Kids",
+      "description": {
+        "en": "Devoxx 4 Kids",
+        "fr": "Devoxx 4 Kids"
+      },
+      "image": "devoxx4kids.png",
+      "site": "www.devoxx.com/display/4KIDS/Home"
+    },
+    {
+      "name":"IBM",
+      "description": {
+        "en": "IBM",
+        "fr": "IBM"
+      },
+      "image": "ibm.png",
+      "site": "www.ibm.com/be/en/"
+    },
+    {
+      "name":"EVS",
+      "description": {
+        "en": "EVS",
+        "fr": "EVS"
+      },
+      "image": "evs.png",
+      "site": "www.evs.com"
+    },
+    {
+      "name":"CRIFA",
+      "description": {
+        "en": "Le Centre de Recherche sur l'Instrumentation, la Formation et l'Apprentissage de l'Université de Liège.",
+        "fr": "Le Centre de Recherche sur l'Instrumentation, la Formation et l'Apprentissage de l'Université de Liège."
+      },
+      "image": "crifa.png",
+      "site": "www.crifa.ulg.ac.be/"
+    }
+  ];
+
+  d4k.then(function(d4k) {
+            $scope.trainers  = d4k.trainers;
+            $scope.practicalinfo  = d4k.practicalinfo;
+          });
+
+  var _contents;
+  contents.async()
+          .then(function(contents) {
+            _contents = contents;
+          });
+
+
+  $scope.translate = function(o) {
+    if (angular.isObject(o)) {
+      return languages.translate(o);
+    }
+  };
+
+  $scope.contents = function(pathString, absolute) {
+    var path = pathString.split(/\./g);
+    if (!absolute) {
+      path.unshift("d4k");
+    }
+    return translate(languages, _contents, path);
+  }
+}
+D4KCtrl.$inject = ["$scope", "$timeout", "languages", "d4k", "contents"];

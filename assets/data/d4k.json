@@ -1,0 +1,39 @@
+{
+  "trainers": [
+    {
+      "image":"assets/images/d4k/trainers/apetrella.png",
+      "name":"Andy Petrella",
+      "text":"@nooostab"
+    }
+    ,{
+      "image":"assets/images/d4k/trainers/srondal.jpg",
+      "name":"Stéphane Rondal",
+      "text":"@stephanerondal"
+    }
+    ,{
+      "image":"assets/images/d4k/trainers/smosena.jpg",
+      "name":"Simone Mosena",
+      "text":"@simonemosena"
+    }
+    ,{
+      "image":"assets/images/d4k/trainers/snicoll.jpeg",
+      "name":"Stéphane Nicoll",
+      "text":"@snicoll"
+    }
+    ,{
+      "image":"assets/images/d4k/trainers/ddeluca.jpg",
+      "name":"Daniel de Luca",
+      "text":"@danieldeluca"
+    }
+    ,{
+      "image":"assets/images/d4k/trainers/seloudrhiri.jpg",
+      "name":"Said Eloudrhiri",
+      "text":"@eloudsa"
+    }
+    ,{
+      "image":"assets/images/d4k/trainers/sgerard.jpg",
+      "name":"Sébastien Gérard",
+      "text":"@sebge2"
+    }
+  ]
+}
