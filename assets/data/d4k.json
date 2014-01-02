@@ -35,5 +35,15 @@
       "name":"Sébastien Gérard",
       "text":"@sebge2"
     }
+    ,{
+      "image":"assets/images/d4k/trainers/xtordoir.jpg",
+      "name":"Xavier Tordoir",
+      "text":"@xtordoir"
+    }
+    ,{
+      "image":"assets/images/d4k/trainers/asantoro.jpg",
+      "name":"Angelo Santoro",
+      "text":"@santoange"
+    }
   ]
 }
