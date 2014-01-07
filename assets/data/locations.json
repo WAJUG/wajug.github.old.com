@@ -19,6 +19,11 @@
     "address": "12, place Xavier Neujean<br/>4000 Liège",
     "site": "http://www.grignoux.be/en-pratique#brasseriesauveniere"
   },
+  "ulg_b52":{
+    "name": "Université de Liège, B52",
+    "address": "Bâtiment B52/3<br/>Institut de Mécanique et Génie-Civil (Faculté des Sciences Appliquées)<br/>Local +0/523<br/>1, Chemin des Chevreuils<br/>4000 Liège<br/>Parking P32 ou P521",
+    "site": "http://www2.ulg.ac.be/acces/plans/zoneb52.html"
+  },
   "TBA":{
     "name": "TBA",
     "address": "To be announced, but near or around Liege",
