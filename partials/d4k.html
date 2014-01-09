@@ -2,7 +2,7 @@
   <div id="d4k_main">
     <h1>Apprendre aux enfants à programmer!</h1>
 	<h2 style="padding-left: 350px; padding-bottom: 30px">ou Wajug organise Devoxx4Kids</h2>
-	
+
 		<div>
 			<p><i>"Vos enfants jouent à des jeux sur l'ordinateur. Bientôt ils pourront faire leurs propres jeux!"</i><br/>
 				Inscrivez vos enfants à la journée d'initiation du samedi 8 février, et ils apprendront à programmer des jeux et des robots!</p>
@@ -159,4 +159,17 @@
       </div>
     </div>
   </div>
+  <script>
+    function onlyTheseSponsors() {
+      if ($("#d4k_sponsors").length == 0) {
+        $("footer").show();
+      } else {
+        if ($("footer:visible").length > 0 && $("#d4k_sponsors").length > 0) {
+          $("footer:visible").hide();
+        }
+        setTimeout(onlyTheseSponsors, 1000);
+      }
+    };
+    setTimeout(onlyTheseSponsors, 1000);
+  </script>
 </div>
