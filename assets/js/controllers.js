@@ -319,10 +319,10 @@ function D4KCtrl($scope, $timeout, languages, d4k, contents) {
 
   $scope.sponsors = [
    {
-     "name":"Institut Saint-Laurent",
+     "name":"Institut Saint-Laurent EPS",
      "description": {
-       "en": "Institut Saint-Laurent",
-       "fr": "Institut Saint-Laurent"
+       "en": "Enseignement de Promotion Sociale",
+       "fr": "Enseignement de Promotion Sociale"
      },
      "image": "isl.png",
      "site": "www.isl.be"
