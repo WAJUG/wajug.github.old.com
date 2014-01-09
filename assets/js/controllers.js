@@ -324,7 +324,7 @@ function D4KCtrl($scope, $timeout, languages, d4k, contents) {
        "en": "Enseignement de Promotion Sociale",
        "fr": "Enseignement de Promotion Sociale"
      },
-     "image": "isl.png",
+     "image": "isl.gif",
      "site": "www.isl.be"
    },
     {
