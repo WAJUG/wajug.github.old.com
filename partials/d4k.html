@@ -49,26 +49,29 @@
               height:500,
               width:700
             });
-            //var a = $('<input type="button" class="btn btn-success lightbox-33597708620865" value="Remplir ce formulaire"/>');
-            //a.hide();
-            //registerChildForm.append(a);
+            var a = $('<input type="button" class="btn btn-success lightbox-33597708620865" value="Remplir ce formulaire"/>');
+            a.hide();
+            registerChildForm.append(a);
 
-            //registerChildForm.find(".wait").slideUp('slow');
+            registerChildForm.find(".wait").slideUp('slow');
 
-            //setTimeout(function() {
-            //  a.slideDown("slow");
-            //}, 1000);
+            setTimeout(function() {
+              a.slideDown("slow");
+            }, 1000);
 
           } else {
             setTimeout(initRegisterChildForm, 1);
           }
         }
-        setTimeout(initRegisterChildForm, 0);
+        // CLOTURE DES INSCRIPTIONS >> setTimeout(initRegisterChildForm, 0);
       </script>
-      <!--<span class="alert alert-warn wait">En attente du formulaire</span>-->
-      <span class="alert alert-warn wait">Nous sommes désolé, il n'a plus de place pour cette session :-(</span>
+      <!-- CLOTURE <span class="alert alert-warn wait">En attente du formulaire</span>-->
     </div>
-		<div class="alert alert-warn"><small>Afin d'encadrer au mieux les enfants, les places sont limitées aux 30 premières inscriptions.</small></div>
+		<div class="alert alert-warn">
+		  <strong>Nous sommes désolé, toutes les places ont déjà été réservées pour cette session.</strong>
+		  <span>Toutefois, nous répondrons à toutes vos questions sur cet email <a href="mailto:info@wajug.be">info@wajug.be</a>.</span>
+		  <small>Afin d'encadrer au mieux les enfants, les places ont limitées aux 30 premières inscriptions.</small>
+		</div>
 
 		<h4>Qui?</h4>
 		<div>Ce stage s'adresse aux enfants de 10 à 14 ans.</div>
