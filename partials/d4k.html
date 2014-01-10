@@ -49,15 +49,15 @@
               height:500,
               width:700
             });
-            var a = $('<input type="button" class="btn btn-success lightbox-33597708620865" value="Remplir ce formulaire"/>');
-            a.hide();
-            registerChildForm.append(a);
+            //var a = $('<input type="button" class="btn btn-success lightbox-33597708620865" value="Remplir ce formulaire"/>');
+            //a.hide();
+            //registerChildForm.append(a);
 
             registerChildForm.find(".wait").slideUp('slow');
 
-            setTimeout(function() {
-              a.slideDown("slow");
-            }, 1000);
+            //setTimeout(function() {
+            //  a.slideDown("slow");
+            //}, 1000);
 
           } else {
             setTimeout(initRegisterChildForm, 1);
@@ -65,7 +65,8 @@
         }
         setTimeout(initRegisterChildForm, 0);
       </script>
-      <span class="alert alert-warn wait">En attente du formulaire</span>
+      <!--<span class="alert alert-warn wait">En attente du formulaire</span>-->
+      <span class="alert alert-warn wait">Nous sommes désolé, il n'a plus de place pour cette session :-(</span>
     </div>
 		<div class="alert alert-warn"><small>Afin d'encadrer au mieux les enfants, les places sont limitées aux 30 premières inscriptions.</small></div>
 
