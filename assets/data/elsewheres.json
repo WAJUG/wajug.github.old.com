@@ -54,5 +54,13 @@
     "text":"OSS: meet, share & collaborate.",
     "date": "1-2 Feb.",
     "endsAt": "3 Feb. 2014"
+  },
+  {
+    "href":"http://www.meetup.com/BruJUG/events/159444552/",
+    "image":"assets/images/elsewhere/brujug.jpeg",
+    "name":"BruJUG",
+    "text":"Scala's Claus Advent Calendar",
+    "date": "30 Jan.",
+    "endsAt": "31 Jan. 2014"
   }
 ]
