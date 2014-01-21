@@ -36,12 +36,21 @@
     "site": "manex.biz"
   },
   {
-    "name":"O'REILLY",
+    "name":"O'Reilly",
     "description": {
-      "en": "Create more value than you capture.",
-      "fr": "Create more value than you capture."
+      "en": "Create more value than you capture",
+      "fr": "Create more value than you capture"
     },
     "image": "oreilly.gif",
-    "site": "oreilly.com/"
+    "site": "oreilly.com"
+  },
+  {
+    "name":"Jetbrains",
+    "description": {
+      "en": "Credible tools for your incredible ideas",
+      "fr": "Credible tools for your incredible ideas"
+    },
+    "image": "jetbrains.gif",
+    "site": "www.jetbrains.com"
   }
 ]
