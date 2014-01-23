@@ -72,8 +72,8 @@
     "site": "http://wajug.be",
     "logo": "wajug.png",
     "bio":{
-      "en":"<p>Eat and drink together...",
-      "fr":"<p>Boire et manger ensemble pour une fois.</p>"
+      "en":"<p>We're the team behind WAJUG events...",
+      "fr":"<p>Nous sommes l'équipe derrière les évènements WAJUG...</p>"
     }
   },
   "ddewaele" : {
@@ -140,6 +140,17 @@
     "bio":{
       "en":"<p>Sébastien Arbogast est consultant indépendant et entrepreneur. Il développe des systèmes d'entreprise (Java, Groovy, Grails) et des applications mobiles (iOS) depuis 8 ans, notamment en utilisant des méthodologies agiles (Scrum, Kanban). En 2011, après avoir gagné le startup weekend de Bruxelles, il fonde Kodesk, une société de partage de bureaux entre entreprises. Grâce à cette expérience il développe ses compétences dans le domaine du lean startup qu'il utilisera intensivement. En 2012, avec Olivier Verbeke, Fostering Ideas asbl et Creative Wallonia, il coorganise la première saison de NEST'up, le premier accélérateur de startup à l'américaine en Belgique, dont il développe également la plateforme web et où il coache deux équipes.</p>",
       "fr":"<p>Sébastien Arbogast est consultant indépendant et entrepreneur. Il développe des systèmes d'entreprise (Java, Groovy, Grails) et des applications mobiles (iOS) depuis 8 ans, notamment en utilisant des méthodologies agiles (Scrum, Kanban). En 2011, après avoir gagné le startup weekend de Bruxelles, il fonde Kodesk, une société de partage de bureaux entre entreprises. Grâce à cette expérience il développe ses compétences dans le domaine du lean startup qu'il utilisera intensivement. En 2012, avec Olivier Verbeke, Fostering Ideas asbl et Creative Wallonia, il coorganise la première saison de NEST'up, le premier accélérateur de startup à l'américaine en Belgique, dont il développe également la plateforme web et où il coache deux équipes.</p>"
+    }
+  },
+  "nathan_gs" : {
+    "twitter": "nathan_gs",
+    "linkedin": "be.linkedin.com/in/nbijnens",
+    "name": "Nathan Bijnens",
+    "site": "http://lambda-architecture.net/",
+    "logo": "",
+    "bio":{
+      "en":"<p>Nathan Bijnens is a developer with a passion for great code, the web and Big Data. He is interested in programming and system administration, especially where they meet, from scaling platforms to designing the architecture of new and existing products and everything in between.</p> <p>He is focused on data analysis and building Big Data Applications. Using Hadoop, in combination with Hadoop Pig, Hive and Cascading. He follows the rise of real-time big data closely, actively developing applications on top of Storm. And designing Lambda-like architectures. He advises on Big Data Strategies and evangelizes Big Data to clients and at conferences. Nathan is a Big Data consultant for DataCrunchers.</p>",
+      "fr":"<p>Nathan Bijnens is a developer with a passion for great code, the web and Big Data. He is interested in programming and system administration, especially where they meet, from scaling platforms to designing the architecture of new and existing products and everything in between.</p> <p>He is focused on data analysis and building Big Data Applications. Using Hadoop, in combination with Hadoop Pig, Hive and Cascading. He follows the rise of real-time big data closely, actively developing applications on top of Storm. And designing Lambda-like architectures. He advises on Big Data Strategies and evangelizes Big Data to clients and at conferences. Nathan is a Big Data consultant for DataCrunchers.</p>"
     }
   }
 

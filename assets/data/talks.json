@@ -1,6 +1,6 @@
 [
   {
-  	"date": {
+    "date": {
       "en": "01/28/2014 7PM",
       "fr": "28/01/2014 19h00"
     },
@@ -25,6 +25,63 @@
     "location": "ulg_b52",
     "fikket": null,
     "meetup": 157323562,
-    "endsAt": "29 Jan. 2015"
+    "endsAt": "29 Jan. 2014"
+  },
+  {
+    "date": {
+      "en": "02/08/2014",
+      "fr": "08/02/2014"
+    },
+    "subject": {
+      "en": "Wajug organizes Devoxx4Kids",
+      "fr": "Wajug organise Devoxx4Kids"
+    },
+    "title": {
+      "en": "Learn kids to code!",
+      "fr": "Apprendre aux enfants à programmer!"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>\"Vos enfants jouent à des jeux sur l'ordinateur. Bientôt ils pourront faire leurs propres jeux!\"</p> <p>Inscrivez vos enfants à la journée d'initiation du samedi 8 février, et ils apprendront à programmer des jeux et des robots!</p> <p>Programmer c’est écrire des instructions pour un ordinateur afin de faire des jeux, comme Angry Birds, mais aussi des applications, des sites webs, etc. En apprenant à programmer, vos enfants pourront eux-mêmes créer de telles choses. Et qui sait, peut-être l’un d’eux deviendra-t-il le prochain Mark Zuckerberg, créateur de Facebook!</p>",
+      "fr": "<p>\"Vos enfants jouent à des jeux sur l'ordinateur. Bientôt ils pourront faire leurs propres jeux!\"</p> <p>Inscrivez vos enfants à la journée d'initiation du samedi 8 février, et ils apprendront à programmer des jeux et des robots!</p> <p>Programmer c’est écrire des instructions pour un ordinateur afin de faire des jeux, comme Angry Birds, mais aussi des applications, des sites webs, etc. En apprenant à programmer, vos enfants pourront eux-mêmes créer de telles choses. Et qui sait, peut-être l’un d’eux deviendra-t-il le prochain Mark Zuckerberg, créateur de Facebook!</p>"
+    },
+    "description" : "wajug-d4k",
+    "speaker": "wajugians",
+    "location": "isl",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "09 Feb. 2014"
+  }
+,
+  {
+  	"date": {
+      "en": "TBA",
+      "fr": "TBA"
+    },
+    "subject": {
+      "en": "A real-time architecture using Hadoop & Storm.",
+      "fr": "A real-time architecture using Hadoop & Storm."
+    },
+    "title": {
+      "en": "A real-time architecture using Hadoop & Storm.",
+      "fr": "A real-time architecture using Hadoop & Storm."
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>Hadoop opened new possibilities, yet it falls short of instant delivery. Adding stream processing using Nathan Marz’ Storm, can overcome this delay and bridge the gap to real-time aggregation and reporting.</p> <p>On the Batch layer all master data is kept and is immutable. Once the base data is stored a recurring process will index the data. This process reads all master data, parses it and will create new views out of it. The new views will replace all previously created views.</p> <p>In the Speed layer data is stored not yet absorbed in the Batch layer. Hours of data instead of years of data. Once the data is indexed in the Batch layer the data can discarded in the Speed layer.</p> <p>The Query Service merges the data from the Speed and Batch layers.</p> <p>This presentation focuses on the Lambda architecture, which combines multiple technologies to be able to process vast amounts of data, while still being able to react timely and report near real-time statistics.</p>",
+      "fr": "<p>Hadoop opened new possibilities, yet it falls short of instant delivery. Adding stream processing using Nathan Marz’ Storm, can overcome this delay and bridge the gap to real-time aggregation and reporting.</p> <p>On the Batch layer all master data is kept and is immutable. Once the base data is stored a recurring process will index the data. This process reads all master data, parses it and will create new views out of it. The new views will replace all previously created views.</p> <p>In the Speed layer data is stored not yet absorbed in the Batch layer. Hours of data instead of years of data. Once the data is indexed in the Batch layer the data can discarded in the Speed layer.</p> <p>The Query Service merges the data from the Speed and Batch layers.</p> <p>This presentation focuses on the Lambda architecture, which combines multiple technologies to be able to process vast amounts of data, while still being able to react timely and report near real-time statistics.</p>"
+    },
+    "description" : "bigdata_realtime",
+    "speaker": "nathan_gs",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "01 Mar. 2014"
   }
 ]
