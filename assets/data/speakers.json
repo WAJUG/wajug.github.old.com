@@ -152,6 +152,16 @@
       "en":"<p>Nathan Bijnens is a developer with a passion for great code, the web and Big Data. He is interested in programming and system administration, especially where they meet, from scaling platforms to designing the architecture of new and existing products and everything in between.</p> <p>He is focused on data analysis and building Big Data Applications. Using Hadoop, in combination with Hadoop Pig, Hive and Cascading. He follows the rise of real-time big data closely, actively developing applications on top of Storm. And designing Lambda-like architectures. He advises on Big Data Strategies and evangelizes Big Data to clients and at conferences. Nathan is a Big Data consultant for DataCrunchers.</p>",
       "fr":"<p>Nathan Bijnens is a developer with a passion for great code, the web and Big Data. He is interested in programming and system administration, especially where they meet, from scaling platforms to designing the architecture of new and existing products and everything in between.</p> <p>He is focused on data analysis and building Big Data Applications. Using Hadoop, in combination with Hadoop Pig, Hive and Cascading. He follows the rise of real-time big data closely, actively developing applications on top of Storm. And designing Lambda-like architectures. He advises on Big Data Strategies and evangelizes Big Data to clients and at conferences. Nathan is a Big Data consultant for DataCrunchers.</p>"
     }
+  },
+  "eric_charles" : {
+    "twitter": "echarles",
+    "linkedin": "be.linkedin.com/in/ericcharles1",
+    "name": "Éric Charles",
+    "site": "http://datalayer.io/",
+    "logo": "http://datalayer.io/skin/datalayer.io/WEB/img/eric1.png",
+    "bio":{
+      "en":"",
+      "fr":""
+    }
   }
-
 }
