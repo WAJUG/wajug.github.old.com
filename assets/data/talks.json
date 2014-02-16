@@ -62,23 +62,23 @@
       "fr": "TBA"
     },
     "subject": {
-      "en": "A real-time architecture using Hadoop & Storm.",
-      "fr": "A real-time architecture using Hadoop & Storm."
+      "en": "YARN, the Apache Hadoop Platform for Streaming, Realtime and Batch Processing",
+      "fr": "YARN, the Apache Hadoop Platform for Streaming, Realtime and Batch Processing"
     },
     "title": {
-      "en": "A real-time architecture using Hadoop & Storm.",
-      "fr": "A real-time architecture using Hadoop & Storm."
+      "en": "YARN, the Apache Hadoop Platform for Streaming, Realtime and Batch Processing",
+      "fr": "YARN, the Apache Hadoop Platform for Streaming, Realtime and Batch Processing"
     },
     "subtitle":{
+      "en": "Bring your Hadoop Cluster to the next Level",
+      "fr": "Bring your Hadoop Cluster to the next Level"
+    },
+    "synopsis": {
       "en": "",
       "fr": ""
     },
-    "synopsis": {
-      "en": "<p>Hadoop opened new possibilities, yet it falls short of instant delivery. Adding stream processing using Nathan Marz’ Storm, can overcome this delay and bridge the gap to real-time aggregation and reporting.</p> <p>On the Batch layer all master data is kept and is immutable. Once the base data is stored a recurring process will index the data. This process reads all master data, parses it and will create new views out of it. The new views will replace all previously created views.</p> <p>In the Speed layer data is stored not yet absorbed in the Batch layer. Hours of data instead of years of data. Once the data is indexed in the Batch layer the data can discarded in the Speed layer.</p> <p>The Query Service merges the data from the Speed and Batch layers.</p> <p>This presentation focuses on the Lambda architecture, which combines multiple technologies to be able to process vast amounts of data, while still being able to react timely and report near real-time statistics.</p>",
-      "fr": "<p>Hadoop opened new possibilities, yet it falls short of instant delivery. Adding stream processing using Nathan Marz’ Storm, can overcome this delay and bridge the gap to real-time aggregation and reporting.</p> <p>On the Batch layer all master data is kept and is immutable. Once the base data is stored a recurring process will index the data. This process reads all master data, parses it and will create new views out of it. The new views will replace all previously created views.</p> <p>In the Speed layer data is stored not yet absorbed in the Batch layer. Hours of data instead of years of data. Once the data is indexed in the Batch layer the data can discarded in the Speed layer.</p> <p>The Query Service merges the data from the Speed and Batch layers.</p> <p>This presentation focuses on the Lambda architecture, which combines multiple technologies to be able to process vast amounts of data, while still being able to react timely and report near real-time statistics.</p>"
-    },
-    "description" : "bigdata_realtime",
-    "speaker": "nathan_gs",
+    "description" : "",
+    "speaker": "eric_charles",
     "location": "TBA",
     "fikket": null,
     "meetup": null,
