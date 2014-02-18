@@ -158,10 +158,10 @@
     "linkedin": "be.linkedin.com/in/ericcharles1",
     "name": "Éric Charles",
     "site": "http://datalayer.io/",
-    "logo": "http://datalayer.io/skin/datalayer.io/WEB/img/eric1.png",
+    "logo": "eric_charles.png",
     "bio":{
-      "en":"",
-      "fr":""
+      "en":"<p>Eric CHARLES is the founder of DATALAYER (<a href='http://datalayer.io'>http://datalayer.io</a>) that provides in Belgium development services based on the HADOOP ecosystem.</p> <p>He worked in London on BIG DATA projects with Hadoop, Hive, Cascading, HBase, Cassandra, Kafa and Storm technologies.</p> <p>Eric is also APACHE Member and Committer.</p> <p>You can contact him via email (<a href='mailto:eric@datalayer.io'>eric@datalayer.io</a>) or on Twitter (@echarles).</p>",
+      "fr":"<p>Eric CHARLES is the founder of DATALAYER (<a href='http://datalayer.io'>http://datalayer.io</a>) that provides in Belgium development services based on the HADOOP ecosystem.</p> <p>He worked in London on BIG DATA projects with Hadoop, Hive, Cascading, HBase, Cassandra, Kafa and Storm technologies.</p> <p>Eric is also APACHE Member and Committer.</p> <p>You can contact him via email (<a href='mailto:eric@datalayer.io'>eric@datalayer.io</a>) or on Twitter (@echarles).</p>"
     }
   }
 }

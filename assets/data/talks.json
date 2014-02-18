@@ -58,8 +58,8 @@
 ,
   {
   	"date": {
-      "en": "TBA",
-      "fr": "TBA"
+      "en": "02/27/2014",
+      "fr": "27/02/2014"
     },
     "subject": {
       "en": "YARN, the Apache Hadoop Platform for Streaming, Realtime and Batch Processing",
@@ -70,18 +70,18 @@
       "fr": "YARN, the Apache Hadoop Platform for Streaming, Realtime and Batch Processing"
     },
     "subtitle":{
-      "en": "Bring your Hadoop Cluster to the next Level",
-      "fr": "Bring your Hadoop Cluster to the next Level"
-    },
-    "synopsis": {
       "en": "",
       "fr": ""
     },
+    "synopsis": {
+      "en": "<p>Apache Hadoop YARN is a sub-project of Hadoop at the Apache Software Foundation introduced in Hadoop 2.0 that separates the resource management and processing components. YARN was born of a need to enable a broader array of interaction patterns for data stored in HDFS beyond MapReduce, not constrained to MapReduce.</p><p>These added capabilities allow enterprises to realize near real-time processing and increased ROI on their Hadoop investments. With MapReduce becoming a user-land library, it can evolve independently of the underlying resource manager layer and in a much more agile manner</p><p>We will explain during this talk that graph processing and iterative modelling now possible for data processing on top of Apache Hadoop YARN. We will also highlight the benefits of running a Key Value storage system such as Apache HBase and a Streaming cluster such as Storm within YARN.</p>",
+      "fr": "<p>Apache Hadoop YARN is a sub-project of Hadoop at the Apache Software Foundation introduced in Hadoop 2.0 that separates the resource management and processing components. YARN was born of a need to enable a broader array of interaction patterns for data stored in HDFS beyond MapReduce, not constrained to MapReduce.</p><p>These added capabilities allow enterprises to realize near real-time processing and increased ROI on their Hadoop investments. With MapReduce becoming a user-land library, it can evolve independently of the underlying resource manager layer and in a much more agile manner</p><p>We will explain during this talk that graph processing and iterative modelling now possible for data processing on top of Apache Hadoop YARN. We will also highlight the benefits of running a Key Value storage system such as Apache HBase and a Streaming cluster such as Storm within YARN.</p>"
+    },
     "description" : "",
     "speaker": "eric_charles",
-    "location": "TBA",
+    "location": "laforge",
     "fikket": null,
     "meetup": null,
-    "endsAt": "01 Mar. 2014"
+    "endsAt": "28 Feb. 2014"
   }
 ]
