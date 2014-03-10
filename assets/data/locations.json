@@ -29,6 +29,11 @@
     "address": "Enseignement de Promotion Sociale<br/>Rue Saint-Laurent, 33<br/>4000 Liège",
     "site": "http://www.isl.be/"
   },
+  "bejug_leuven":{
+    "name": "[BeJUG] Leuven",
+    "address": "Leuven",
+    "site": ""
+  },
   "TBA":{
     "name": "TBA",
     "address": "To be announced, but near or around Liege",
