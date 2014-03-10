@@ -85,7 +85,7 @@
     "endsAt": "28 Feb. 2014"
   }
 ,
-{
+  {
   	"date": {
       "en": "03/25/2014",
       "fr": "25/03/2014"
@@ -103,12 +103,12 @@
       "fr": "Co-organisé avec le BeJUG et le BruJUG"
     },
     "synopsis": {
-      "en": "<p>With no doubt, the most widely used API of the JDK is the Collection API. Brilliantly designed 15 years ago, it is still at the core of all the Java applications. In 2004 if underwent its first refactoring with the introduction of the generics. This refactoring did not change the collections patterns. With the introduction of lambda expressions in JDK 8, the collection API is again rewritten, but this time the situation is different : the patterns are completely changed.</p><p>The first part of this session introduces the lambda expressions, how we can write them, and what they bring to us developers. The second part presents in details the new patterns introduced by the Stream and Collector APIs. These new APIs will change the way we process large collections content, enabling concurrent and parallel access, with a very simple programming model, and amazing patterns. Complex examples will show how powerful those APIs are, and how they can help us write efficient and clean code.</p>,
-      "fr": "<p>With no doubt, the most widely used API of the JDK is the Collection API. Brilliantly designed 15 years ago, it is still at the core of all the Java applications. In 2004 if underwent its first refactoring with the introduction of the generics. This refactoring did not change the collections patterns. With the introduction of lambda expressions in JDK 8, the collection API is again rewritten, but this time the situation is different : the patterns are completely changed.</p><p>The first part of this session introduces the lambda expressions, how we can write them, and what they bring to us developers. The second part presents in details the new patterns introduced by the Stream and Collector APIs. These new APIs will change the way we process large collections content, enabling concurrent and parallel access, with a very simple programming model, and amazing patterns. Complex examples will show how powerful those APIs are, and how they can help us write efficient and clean code.</p>
+      "en": "<p>With no doubt, the most widely used API of the JDK is the Collection API. Brilliantly designed 15 years ago, it is still at the core of all the Java applications. In 2004 if underwent its first refactoring with the introduction of the generics. This refactoring did not change the collections patterns. With the introduction of lambda expressions in JDK 8, the collection API is again rewritten, but this time the situation is different : the patterns are completely changed.</p><p>The first part of this session introduces the lambda expressions, how we can write them, and what they bring to us developers. The second part presents in details the new patterns introduced by the Stream and Collector APIs. These new APIs will change the way we process large collections content, enabling concurrent and parallel access, with a very simple programming model, and amazing patterns. Complex examples will show how powerful those APIs are, and how they can help us write efficient and clean code.</p>",
+      "fr": "<p>With no doubt, the most widely used API of the JDK is the Collection API. Brilliantly designed 15 years ago, it is still at the core of all the Java applications. In 2004 if underwent its first refactoring with the introduction of the generics. This refactoring did not change the collections patterns. With the introduction of lambda expressions in JDK 8, the collection API is again rewritten, but this time the situation is different : the patterns are completely changed.</p><p>The first part of this session introduces the lambda expressions, how we can write them, and what they bring to us developers. The second part presents in details the new patterns introduced by the Stream and Collector APIs. These new APIs will change the way we process large collections content, enabling concurrent and parallel access, with a very simple programming model, and amazing patterns. Complex examples will show how powerful those APIs are, and how they can help us write efficient and clean code.</p>"
     },
     "description" : "",
     "speaker": "JosePaumard",
-    "location": null,
+    "location": bejug_leuven,
     "fikket": null,
     "meetup": ,
     "endsAt": "26 Mar. 2014"
