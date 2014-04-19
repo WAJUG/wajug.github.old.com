@@ -113,4 +113,90 @@
     "meetup": null,
     "endsAt": "26 Mar. 2014"
 }
+,
+  {
+  	"date": {
+      "en": "05/06/2014",
+      "fr": "06/05/2014"
+    },
+    "subject": {
+      "en": "OpenStack at Rackspace",
+      "fr": "OpenStack at Rackspace"
+    },
+    "title": {
+      "en": "OpenStack at Rackspace",
+      "fr": "OpenStack at Rackspace"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>Coming soon!</p>",
+      "fr": "<p>Coming soon!</p>"
+    },
+    "description" : "",
+    "speaker": "Rackspace",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "07 May 2014"
+}
+,
+  {
+  	"date": {
+      "en": "05/27/2014",
+      "fr": "27/05/2014"
+    },
+    "subject": {
+      "en": "Elastic Search",
+      "fr": "Elastic Search"
+    },
+    "title": {
+      "en": "Elastic Search",
+      "fr": "Elastic Search"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>Coming soon!</p>",
+      "fr": "<p>Coming soon!</p>"
+    },
+    "description" : "",
+    "speaker": "christoph_evers",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "28 May 2014"
+},
+  {
+  	"date": {
+      "en": "06/26/2014",
+      "fr": "26/06/2014"
+    },
+    "subject": {
+      "en": "RoQ: Elastic and Scalable Message Queue for the Cloud",
+      "fr": "RoQ: Elastic and Scalable Message Queue for the Cloud"
+    },
+    "title": {
+      "en": "RoQ: Elastic and Scalable Message Queue for the Cloud",
+      "fr": "RoQ: Elastic and Scalable Message Queue for the Cloud"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>Coming soon!</p>",
+      "fr": "<p>Coming soon!</p>"
+    },
+    "description" : "",
+    "speaker": "maher_mkadem",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "27 Jun. 2014"
+}
 ]
