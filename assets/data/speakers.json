@@ -174,5 +174,38 @@
       "en":"<p>José is an assistant professor at the Institut Galilée (Université Paris 13) and a PhD in applied mathematics from the ENS de Cachan. He has discovered the Java language in 1995, and has been teaching the Java technologies at the university since 2000.</p><p>José has also been working as an independant for numerous companies, in a variety of areas. He is a well known Java / Java EE expert and trainer. He also publishes \"Java le soir\", a technical blog in french (http://blog.paumard.org/), with about 750 pages of courses about Java / JEE in open access.</p><p>He is a member of the french Paris Java User Group, and co-organizer of Devoxx France.</p>",
       "fr":"<p>José is an assistant professor at the Institut Galilée (Université Paris 13) and a PhD in applied mathematics from the ENS de Cachan. He has discovered the Java language in 1995, and has been teaching the Java technologies at the university since 2000.</p><p>José has also been working as an independant for numerous companies, in a variety of areas. He is a well known Java / Java EE expert and trainer. He also publishes \"Java le soir\", a technical blog in french (http://blog.paumard.org/), with about 750 pages of courses about Java / JEE in open access.</p><p>He is a member of the french Paris Java User Group, and co-organizer of Devoxx France.</p>"
     }
+  },
+  "Rackspace" : {
+    "twitter": "Rackspace",
+    "linkedin": "",
+    "name": "Rackspace",
+    "site": "http://www.rackspace.com",
+    "logo": "http://mostafaberg.com/wp-content/uploads/2011/03/rackspace-new-logo-fullwidth_3.jpg",
+    "bio":{
+      "en":"<p>Coming soon!</p>",
+      "fr":"<p>Coming soon!</p>"
+    }
+  },
+  "christoph_evers" : {
+    "twitter": "acerbiz",
+    "linkedin": "be.linkedin.com/pub/christoph-evers/1/305/313",
+    "name": "Christoph Evers",
+    "site": "http://www.365analytics.com/",
+    "logo": "",
+    "bio":{
+      "en":"<p>Coming soon!</p>",
+      "fr":"<p>Coming soon!</p>"
+    }
+  },
+  "maher_mkadem" : {
+    "twitter": "mel7it",
+    "linkedin": "be.linkedin.com/pub/christoph-evers/1/305/313",
+    "name": "Maher Mkadem",
+    "site": "http://euranova.eu/",
+    "logo": "",
+    "bio":{
+      "en":"<p>Coming soon!</p>",
+      "fr":"<p>Coming soon!</p>"
+    }
   }
 }
