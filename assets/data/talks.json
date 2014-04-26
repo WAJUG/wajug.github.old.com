@@ -120,24 +120,24 @@
       "fr": "07/05/2014"
     },
     "subject": {
-      "en": "OpenStack at Rackspace",
-      "fr": "OpenStack at Rackspace"
+      "en": "An Introduction to OpenStack",
+      "fr": "An Introduction to OpenStack"
     },
     "title": {
-      "en": "OpenStack at Rackspace",
-      "fr": "OpenStack at Rackspace"
+      "en": "An Introduction to OpenStack",
+      "fr": "An Introduction to OpenStack"
     },
     "subtitle":{
       "en": "",
       "fr": ""
     },
     "synopsis": {
-      "en": "<p>Coming soon!</p>",
-      "fr": "<p>Coming soon!</p>"
+      "en": "<p>In the next meetup Rackspace, one of the founders of OpenStack, will introduce you to the open source cloud computing solution. During this presentation we will dive into the history of OpenStack, discuss the best suitable use cases and the technology behind it.</p>",
+      "fr": "<p>In the next meetup Rackspace, one of the founders of OpenStack, will introduce you to the open source cloud computing solution. During this presentation we will dive into the history of OpenStack, discuss the best suitable use cases and the technology behind it.</p>"
     },
     "description" : "",
-    "speaker": "Rackspace",
-    "location": "TBA",
+    "speaker": "Kevin_Jackson",
+    "location": "laforge",
     "fikket": null,
     "meetup": null,
     "endsAt": "08 May 2014"
