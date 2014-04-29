@@ -176,14 +176,14 @@
     }
   },
   "Kevin_Jackson" : {
-    "twitter": "Kevin Jackson",
+    "twitter": "itarchitectkev",
     "linkedin": "",
     "name": "Kevin Jackson",
     "site": "http://www.rackspace.com",
     "logo": "rackspace.jpg",
     "bio":{
-      "en":"<p>Coming soon!</p>",
-      "fr":"<p>Coming soon!</p>"
+      "en":"<p>Kevin Jackson, the author of the OpenStack Cloud Computing Cookbook, is a Principal Architect as part of the Rackspace's DevOps & Automation Advisory Services team based in the UK. Kevin's role focuses on assisting enterprises to deploy and manage their Private Cloud infrastructure. Kevin has been working with OpenStack since the beginning of 2011, and architecting virtualization and cloud solutions many years prior to this.</p>",
+      "fr":"<p>Kevin Jackson, the author of the OpenStack Cloud Computing Cookbook, is a Principal Architect as part of the Rackspace's DevOps & Automation Advisory Services team based in the UK. Kevin's role focuses on assisting enterprises to deploy and manage their Private Cloud infrastructure. Kevin has been working with OpenStack since the beginning of 2011, and architecting virtualization and cloud solutions many years prior to this.</p>"
     }
   },
   "christoph_evers" : {
