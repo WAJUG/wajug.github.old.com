@@ -14,6 +14,11 @@
     "address": "48, rue de Fer au 4e étage<br>(au-dessus d'Ethias)",
     "site": "http://coworkingnamur.be"
   },
+  "activeup": {
+    "name": "Active'Up",
+    "address": "Rue Lambert Lombard, 5<br>4000 Liège<br>La Chapelle",
+    "site": "http://www.activeup.com/"
+  },
   "sauveniere":{
     "name": "Brasserie La Sauveniere",
     "address": "12, place Xavier Neujean<br/>4000 Liège",
