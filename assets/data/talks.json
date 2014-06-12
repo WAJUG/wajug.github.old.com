@@ -189,12 +189,12 @@
       "fr": ""
     },
     "synopsis": {
-      "en": "<p>Coming soon!</p>",
-      "fr": "<p>Coming soon!</p>"
+      "en": "<p>RoQ is the first implementation of EQS(Elastic Queue Service), a new architecture designed Message-oriented middleware for efficient messaging in the cloud.<p> <p>Traditionally, Message-oriented middlewares are not designed to support elastic scaling. This means that in a cloud context, they may very quickly become a bottleneck in terms of performance.</p> <p>RoQ has been designed to answer this problem elasticity and scalability. This includes three properties:</p> <ul> <li>When required, the capacity of the system will be increased automatically</li> <li>This capacity increase has no impact on the global performance</li> <li>When the load decreases, the system will scale down to avoid using unnecessary resources</li> </ul> <p>RoQ started as a research project within EURA NOVA and has since then evolved into an open-source project.</p>",
+      "fr": "<p>RoQ is the first implementation of EQS(Elastic Queue Service), a new architecture designed Message-oriented middleware for efficient messaging in the cloud.<p> <p>Traditionally, Message-oriented middlewares are not designed to support elastic scaling. This means that in a cloud context, they may very quickly become a bottleneck in terms of performance.</p> <p>RoQ has been designed to answer this problem elasticity and scalability. This includes three properties:</p> <ul> <li>When required, the capacity of the system will be increased automatically</li> <li>This capacity increase has no impact on the global performance</li> <li>When the load decreases, the system will scale down to avoid using unnecessary resources</li> </ul> <p>RoQ started as a research project within EURA NOVA and has since then evolved into an open-source project.</p>"
     },
     "description" : "",
     "speaker": "maher_mkadem",
-    "location": "TBA",
+    "location": "laforge",
     "fikket": null,
     "meetup": null,
     "endsAt": "27 Jun. 2014"
