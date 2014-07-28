@@ -170,7 +170,7 @@
     "fikket": null,
     "meetup": 182495322,
     "endsAt": "28 May 2014"
-},
+  },
   {
   	"date": {
       "en": "06/26/2014",
@@ -198,5 +198,117 @@
     "fikket": null,
     "meetup": null,
     "endsAt": "27 Jun. 2014"
-}
+  },
+  {
+  	"date": {
+      "en": "09/26/2014",
+      "fr": "26/09/2014"
+    },
+    "subject": {
+      "en": "Spring",
+      "fr": "Spring"
+    },
+    "title": {
+      "en": "Spring",
+      "fr": "Spring"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p></p>",
+      "fr": "<p></p>"
+    },
+    "description" : "",
+    "speaker": "gildas_cuisinier",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "27 Spet. 2014"
+  },
+  {
+  	"date": {
+      "en": "10/26/2014",
+      "fr": "26/10/2014"
+    },
+    "subject": {
+      "en": "Agile",
+      "fr": "Agile"
+    },
+    "title": {
+      "en": "Agile",
+      "fr": "Agile"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "",
+      "fr": ""
+    },
+    "description" : "",
+    "speaker": "bruno_sbille",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "27 Oct. 2014"
+  },
+  {
+  	"date": {
+      "en": "11/26/2014",
+      "fr": "26/11/2014"
+    },
+    "subject": {
+      "en": "R",
+      "fr": "R"
+    },
+    "title": {
+      "en": "R",
+      "fr": "R"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "",
+      "fr": ""
+    },
+    "description" : "",
+    "speaker": "philippe_grosjean",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "27 Nov. 2014"
+  },
+  {
+  	"date": {
+      "en": "12/26/2014",
+      "fr": "26/12/2014"
+    },
+    "subject": {
+      "en": "Orthan C",
+      "fr": "Orthan C"
+    },
+    "title": {
+      "en": "Orthan C",
+      "fr": "Orthan C"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "",
+      "fr": ""
+    },
+    "description" : "",
+    "speaker": "sebastien_jodogne",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "27 Dec. 2014"
+  }
 ]
