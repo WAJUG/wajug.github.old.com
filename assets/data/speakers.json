@@ -207,5 +207,49 @@
       "en":"<p>Maher Mkadem, is a consultant at EURANOVA which has worked on projects such as distributed platforms and Web projects.</p> <p>Despite his short career, Maher has already been working in various functional environment, including Pharmaceutical and R&D domains.</p> <p>Although Maher has been involved primarily on development projects so far, he is quickly building a strong knowledge of software architecture.</p>",
       "fr":"<p>Maher Mkadem, is a consultant at EURANOVA which has worked on projects such as distributed platforms and Web projects.</p> <p>Despite his short career, Maher has already been working in various functional environment, including Pharmaceutical and R&D domains.</p> <p>Although Maher has been involved primarily on development projects so far, he is quickly building a strong knowledge of software architecture.</p>"
     }
+  },
+  "bruno_sbille" : {
+    "twitter": "BrunoSbille",
+    "linkedin": "be.linkedin.com/in/brunosbille",
+    "name": "Bruno Sbille",
+    "site": "",
+    "logo": "",
+    "bio":{
+      "en":"<p></p>",
+      "fr":"<p></p>"
+    }
+  },
+  "gildas_cuisinier" : {
+    "twitter": "gcuisinier",
+    "linkedin": "u.linkedin.com/in/gcuisinier",
+    "name": "Gildas Cuisinier",
+    "site": "",
+    "logo": "",
+    "bio":{
+      "en":"<p></p>",
+      "fr":"<p></p>"
+    }
+  },
+  "philippe_grosjean" : {
+    "twitter": "PhilGrosjean",
+    "linkedin": "",
+    "name": "Philippe Grosjean",
+    "site": "http://t.co/y5JYEp58U1",
+    "logo": "",
+    "bio":{
+      "en":"<p></p>",
+      "fr":"<p></p>"
+    }
+  },
+  "sebastien_jodogne" : {
+    "twitter": "sjodogne",
+    "linkedin": "be.linkedin.com/in/jodogne",
+    "name": "Sébastien Jodogne",
+    "site": "http://www.orthanc-server.com/",
+    "logo": "",
+    "bio":{
+      "en":"<p></p>",
+      "fr":"<p></p>"
+    }
   }
 }
