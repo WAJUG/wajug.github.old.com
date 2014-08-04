@@ -289,16 +289,16 @@
       "fr": "18/12/2014"
     },
     "subject": {
-      "en": "Orthanc, the lightweight, versatile server for medical imaging",
-      "fr": "Orthanc, the lightweight, versatile server for medical imaging"
+      "en": "Orthanc, C++ server for medical imaging with a RESTful API",
+      "fr": "Orthanc, C++ server for medical imaging with a RESTful API"
     },
     "title": {
-      "en": "Orthanc, the lightweight, versatile server for medical imaging",
-      "fr": "Orthanc, the lightweight, versatile server for medical imaging"
+      "en": "Orthanc, C++ server for medical imaging with a RESTful API",
+      "fr": "Orthanc, C++ server for medical imaging with a RESTful API"
     },
     "subtitle":{
-      "en": "",
-      "fr": ""
+      "en": "the lightweight, versatile server for medical imaging",
+      "fr": "the lightweight, versatile server for medical imaging"
     },
     "synopsis": {
       "en": "<p>The amount of medical images that are generated, analyzed and exchanged by hospitals is dramatically increasing. Medical imaging is indeed the first step to the treatment of more and more illnesses, such as cancers or cardiovascular diseases.</p><p>In turn, the data management of clinical images and the administration of the computer network of a medical imaging department imply growing technological challenges. Tasks such as autorouting between imaging modalities, exchanging data between clinical departments or hospitals, or anonymizing images are still hard to achieve in practice. This is a direct consequence of the lack of interoperability software that could bring technological independence to hospitals by creating low-cost gateways between proprietary ecosystems.</p><p>In this talk, I will explain the pains behind modern medical imaging, from the perspective of the hospitals. The DICOM standard will be introduced, together with free and open-source software supporting this standard.</p><p>I will then put emphasis on the free software Orthanc, a lightweight, versatile DICOM server. Thanks to its REST API and to its Lua scripting engine, Orthanc is primarily conceived as a central, robust building block to bring technological independence to clinical departments by automating their specific imaging flows.</p>",
