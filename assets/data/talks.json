@@ -285,30 +285,30 @@
   },
   {
   	"date": {
-      "en": "12/26/2014",
-      "fr": "26/12/2014"
+      "en": "12/18/2014",
+      "fr": "18/12/2014"
     },
     "subject": {
-      "en": "Orthan C",
-      "fr": "Orthan C"
+      "en": "Orthanc, the lightweight, versatile server for medical imaging",
+      "fr": "Orthanc, the lightweight, versatile server for medical imaging"
     },
     "title": {
-      "en": "Orthan C",
-      "fr": "Orthan C"
+      "en": "Orthanc, the lightweight, versatile server for medical imaging",
+      "fr": "Orthanc, the lightweight, versatile server for medical imaging"
     },
     "subtitle":{
       "en": "",
       "fr": ""
     },
     "synopsis": {
-      "en": "",
-      "fr": ""
+      "en": "<p>The amount of medical images that are generated, analyzed and exchanged by hospitals is dramatically increasing. Medical imaging is indeed the first step to the treatment of more and more illnesses, such as cancers or cardiovascular diseases.</p><p>In turn, the data management of clinical images and the administration of the computer network of a medical imaging department imply growing technological challenges. Tasks such as autorouting between imaging modalities, exchanging data between clinical departments or hospitals, or anonymizing images are still hard to achieve in practice. This is a direct consequence of the lack of interoperability software that could bring technological independence to hospitals by creating low-cost gateways between proprietary ecosystems.</p><p>In this talk, I will explain the pains behind modern medical imaging, from the perspective of the hospitals. The DICOM standard will be introduced, together with free and open-source software supporting this standard.</p><p>I will then put emphasis on the free software Orthanc, a lightweight, versatile DICOM server. Thanks to its REST API and to its Lua scripting engine, Orthanc is primarily conceived as a central, robust building block to bring technological independence to clinical departments by automating their specific imaging flows.</p>",
+      "fr": "<p>The amount of medical images that are generated, analyzed and exchanged by hospitals is dramatically increasing. Medical imaging is indeed the first step to the treatment of more and more illnesses, such as cancers or cardiovascular diseases.</p><p>In turn, the data management of clinical images and the administration of the computer network of a medical imaging department imply growing technological challenges. Tasks such as autorouting between imaging modalities, exchanging data between clinical departments or hospitals, or anonymizing images are still hard to achieve in practice. This is a direct consequence of the lack of interoperability software that could bring technological independence to hospitals by creating low-cost gateways between proprietary ecosystems.</p><p>In this talk, I will explain the pains behind modern medical imaging, from the perspective of the hospitals. The DICOM standard will be introduced, together with free and open-source software supporting this standard.</p><p>I will then put emphasis on the free software Orthanc, a lightweight, versatile DICOM server. Thanks to its REST API and to its Lua scripting engine, Orthanc is primarily conceived as a central, robust building block to bring technological independence to clinical departments by automating their specific imaging flows.</p>"
     },
     "description" : "",
     "speaker": "sebastien_jodogne",
     "location": "TBA",
     "fikket": null,
     "meetup": null,
-    "endsAt": "27 Dec. 2014"
+    "endsAt": "19 Dec. 2014"
   }
 ]
