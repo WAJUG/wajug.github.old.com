@@ -248,8 +248,8 @@
     "site": "http://www.orthanc-server.com/",
     "logo": "",
     "bio":{
-      "en":"<p></p>",
-      "fr":"<p></p>"
+      "en":"<p>Sébastien Jodogne holds a Ph.D. degree in Computer Science from the University of Liège (Belgium). His research work was notably acknowledged by the IBM Belgium Award in 2002. Between 2006 and 2011, he implemented high-performance image analysis software for private companies in the fields of machine vision, closed-circuit television, and broadcasting. Since 2011, he has been working as a medical imaging engineer at the University Hospital of Liège, where he develops the free and open source software Orthanc. His research interests include medical imaging, computer vision, machine learning and software engineering.</p>",
+      "fr":"<p>Sébastien Jodogne holds a Ph.D. degree in Computer Science from the University of Liège (Belgium). His research work was notably acknowledged by the IBM Belgium Award in 2002. Between 2006 and 2011, he implemented high-performance image analysis software for private companies in the fields of machine vision, closed-circuit television, and broadcasting. Since 2011, he has been working as a medical imaging engineer at the University Hospital of Liège, where he develops the free and open source software Orthanc. His research interests include medical imaging, computer vision, machine learning and software engineering.</p>"
     }
   }
 }
