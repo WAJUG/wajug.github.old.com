@@ -219,15 +219,15 @@
       "fr":"<p></p>"
     }
   },
-  "gildas_cuisinier" : {
-    "twitter": "gcuisinier",
-    "linkedin": "u.linkedin.com/in/gcuisinier",
-    "name": "Gildas Cuisinier",
+  "gildas_cuisinier_stephane_nicoll" : {
+    "twitter": "",
+    "linkedin": "",
+    "name": "Gildas Cuisinier - Stéphane Nicoll",
     "site": "",
     "logo": "",
     "bio":{
-      "en":"<p></p>",
-      "fr":"<p></p>"
+      "en":"<p><b>Gildas Cuisinier</b></p><p></p> <p><b>Stéphane Nicoll</b></p><p></p>",
+      "fr":"<p><b>Gildas Cuisinier</b></p><p></p> <p><b>Stéphane Nicoll</b></p><p></p>"
     }
   },
   "philippe_grosjean" : {
