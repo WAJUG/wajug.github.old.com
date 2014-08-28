@@ -246,7 +246,7 @@
     },
     "synopsis": {
       "en": "<p>Pressé?  Spring Boot est une boîte à outils, basée sur le framework Spring, qui vous permet de développer vos applications en un temps record.  Durant cette session de démonstration, nous illustrerons les nombreuses possibilités de Spring Boot, notamment en terme de configuration et d'extensions.</p><p>Envie d’intégrer Java et Javascript ? Pas de soucis, JHipster est votre ami.</p><p>Ce générateur Yeoman permet de démarrer un projet AngularJS / Spring Boot sans soucis !</p>",
-      "fr": "<p></p>"
+      "fr": "<p>Pressé?  Spring Boot est une boîte à outils, basée sur le framework Spring, qui vous permet de développer vos applications en un temps record.  Durant cette session de démonstration, nous illustrerons les nombreuses possibilités de Spring Boot, notamment en terme de configuration et d'extensions.</p><p>Envie d’intégrer Java et Javascript ? Pas de soucis, JHipster est votre ami.</p><p>Ce générateur Yeoman permet de démarrer un projet AngularJS / Spring Boot sans soucis !</p>"
     },
     "description" : "",
     "speaker": "gildas_cuisinier_stephane_nicoll",
