@@ -233,19 +233,19 @@
       "fr": "29/10/2014"
     },
     "subject": {
-      "en": "Spring",
-      "fr": "Spring"
+      "en": "De zéro à héros en 5 minutes avec Spring Boot",
+      "fr": "De zéro à héros en 5 minutes avec Spring Boot"
     },
     "title": {
-      "en": "Spring",
-      "fr": "Spring"
+      "en": "De zéro à héros en 5 minutes avec Spring Boot",
+      "fr": "De zéro à héros en 5 minutes avec Spring Boot"
     },
     "subtitle":{
       "en": "",
       "fr": ""
     },
     "synopsis": {
-      "en": "<p></p>",
+      "en": "<p>Pressé?  Spring Boot est une boîte à outils, basée sur le framework Spring, qui vous permet de développer vos applications en un temps record.  Durant cette session de démonstration, nous illustrerons les nombreuses possibilités de Spring Boot, notamment en terme de configuration et d'extensions.</p><p>Envie d’intégrer Java et Javascript ? Pas de soucis, JHipster est votre ami.</p><p>Ce générateur Yeoman permet de démarrer un projet AngularJS / Spring Boot sans soucis !</p>",
       "fr": "<p></p>"
     },
     "description" : "",
