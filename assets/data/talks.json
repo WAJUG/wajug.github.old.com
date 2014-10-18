@@ -201,34 +201,6 @@
   },
   {
   	"date": {
-      "en": "10/07/2014",
-      "fr": "07/10/2014"
-    },
-    "subject": {
-      "en": "Introduction à Scrum par les jeux Agile",
-      "fr": "Introduction à Scrum par les jeux Agile"
-    },
-    "title": {
-      "en": "Introduction à Scrum par les jeux Agile",
-      "fr": "Introduction à Scrum par les jeux Agile"
-    },
-    "subtitle":{
-      "en": "",
-      "fr": ""
-    },
-    "synopsis": {
-      "en": "<p>Scrum est la méthode Agile la plus utilisée pour organiser et réaliser des projets. </p> <p>Par l'intermédiaire d'un atelier pratique, nous allons simuler un projet. Les participants travailleront en équipe en appliquant les principes et les valeurs de Scrum. </p> <p>Les objectifs de cette session sont: <ul> <li>Vous permettre d'expérimenter ce que ça fait de travailler \"en mode Scrum\"</li> <li>Apprendre le Framework Scrum</li> </ul> </p> <p>Cette session vous donnera aussi une introduction sur les méthodes Agile et quelques points de comparaison par rapport à des méthodes de gestion de projet traditionnelle comme Prince2 et PMI. </p> <p>L'atelier sera pratique et nous utiliserons des Jeux Agile (apparentés aux Serious Games)</p>",
-      "fr": "<p>Scrum est la méthode Agile la plus utilisée pour organiser et réaliser des projets. </p> <p>Par l'intermédiaire d'un atelier pratique, nous allons simuler un projet. Les participants travailleront en équipe en appliquant les principes et les valeurs de Scrum. </p> <p>Les objectifs de cette session sont: <ul> <li>Vous permettre d'expérimenter ce que ça fait de travailler \"en mode Scrum\"</li> <li>Apprendre le Framework Scrum</li> </ul> </p> <p>Cette session vous donnera aussi une introduction sur les méthodes Agile et quelques points de comparaison par rapport à des méthodes de gestion de projet traditionnelle comme Prince2 et PMI. </p> <p>L'atelier sera pratique et nous utiliserons des Jeux Agile (apparentés aux Serious Games)</p>"
-    },
-    "description" : "",
-    "speaker": "bruno_sbille",
-    "location": "TBA",
-    "fikket": null,
-    "meetup": 204507992,
-    "endsAt": "8 Oct. 2014"
-  },
-  {
-  	"date": {
       "en": "11/04/2014",
       "fr": "04/11/2014"
     },
@@ -310,5 +282,33 @@
     "fikket": null,
     "meetup": 204509202,
     "endsAt": "19 Dec. 2014"
+  },
+  {
+  	"date": {
+      "en": "01/19/2015",
+      "fr": "19/01/2015"
+    },
+    "subject": {
+      "en": "Introduction à Scrum par les jeux Agile",
+      "fr": "Introduction à Scrum par les jeux Agile"
+    },
+    "title": {
+      "en": "Introduction à Scrum par les jeux Agile",
+      "fr": "Introduction à Scrum par les jeux Agile"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>Scrum est la méthode Agile la plus utilisée pour organiser et réaliser des projets. </p> <p>Par l'intermédiaire d'un atelier pratique, nous allons simuler un projet. Les participants travailleront en équipe en appliquant les principes et les valeurs de Scrum. </p> <p>Les objectifs de cette session sont: <ul> <li>Vous permettre d'expérimenter ce que ça fait de travailler \"en mode Scrum\"</li> <li>Apprendre le Framework Scrum</li> </ul> </p> <p>Cette session vous donnera aussi une introduction sur les méthodes Agile et quelques points de comparaison par rapport à des méthodes de gestion de projet traditionnelle comme Prince2 et PMI. </p> <p>L'atelier sera pratique et nous utiliserons des Jeux Agile (apparentés aux Serious Games)</p>",
+      "fr": "<p>Scrum est la méthode Agile la plus utilisée pour organiser et réaliser des projets. </p> <p>Par l'intermédiaire d'un atelier pratique, nous allons simuler un projet. Les participants travailleront en équipe en appliquant les principes et les valeurs de Scrum. </p> <p>Les objectifs de cette session sont: <ul> <li>Vous permettre d'expérimenter ce que ça fait de travailler \"en mode Scrum\"</li> <li>Apprendre le Framework Scrum</li> </ul> </p> <p>Cette session vous donnera aussi une introduction sur les méthodes Agile et quelques points de comparaison par rapport à des méthodes de gestion de projet traditionnelle comme Prince2 et PMI. </p> <p>L'atelier sera pratique et nous utiliserons des Jeux Agile (apparentés aux Serious Games)</p>"
+    },
+    "description" : "",
+    "speaker": "bruno_sbille",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": 214251152,
+    "endsAt": "20 Jan. 2015"
   }
 ]
