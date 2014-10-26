@@ -39,6 +39,11 @@
     "address": "Leuven",
     "site": ""
   },
+  "pole_image":{
+  "name": "Le Pôle Image de Liège",
+  "address": "Rue de Mulhouse, 36<br/>4020 Liège",
+  "site": "http://www.lepole.be/"
+},
   "TBA":{
     "name": "TBA",
     "address": "To be announced, but near or around Liege",
