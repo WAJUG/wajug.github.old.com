@@ -337,15 +337,6 @@ function D4KCtrl($scope, $timeout, languages, d4k, contents) {
       "site": "www.devoxx.com/display/4KIDS/Home"
     },
     {
-      "name":"IBM",
-      "description": {
-        "en": "IBM",
-        "fr": "IBM"
-      },
-      "image": "ibm.png",
-      "site": "www.ibm.com/be/en/"
-    },
-    {
       "name":"EVS",
       "description": {
         "en": "EVS",
@@ -353,15 +344,6 @@ function D4KCtrl($scope, $timeout, languages, d4k, contents) {
       },
       "image": "evs.png",
       "site": "www.evs.com"
-    },
-    {
-      "name":"CRIFA",
-      "description": {
-        "en": "Le Centre de Recherche sur l'Instrumentation, la Formation et l'Apprentissage de l'Université de Liège.",
-        "fr": "Le Centre de Recherche sur l'Instrumentation, la Formation et l'Apprentissage de l'Université de Liège."
-      },
-      "image": "crifa.png",
-      "site": "www.crifa.ulg.ac.be/"
     }
   ];
 
