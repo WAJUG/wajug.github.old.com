@@ -310,5 +310,33 @@
     "fikket": null,
     "meetup": 214251152,
     "endsAt": "20 Jan. 2015"
+  },
+  {
+  	"date": {
+      "en": "01/26/2015",
+      "fr": "26/01/2015"
+    },
+    "subject": {
+      "en": "Distributed Computing and Apache Spark",
+      "fr": "Le calcul distribué et Apache Spark"
+    },
+    "title": {
+      "en": "Distributed Computing and Apache Spark",
+      "fr": "Le calcul distribué et Apache Spark"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+    "synopsis": {
+      "en": "<p>Ce talk est destiné aux devs et managers intéressés par les technologies libellées \"BigData\", c’est à dire les solutions techniques et technologiques qui ont émergé depuis une bonne dizaine d’années des besoins de traitement de grandes quantités de données.</p> <p>Le focus sera d’abord mis sur les aspects distribués des calculs et traitements, qui sont une caractéristique commune à ces technologies.</p> <p>Nous démontrerons l’intérêt du calcul distribué, non seulement comme solution s’imposant pour les gros volumes de données mais aussi comme réponse à des questions de résilience et fiabilité, de throughput ou de précision en machine learning. Après cette courte introduction, nous passerons aux corps du talk, Apache Spark.</p> <p>Cette librairie de calculs distribués remplace Hadoop chez les acteurs en pointe au niveau technologique. Nous verrons ensemble, en se basant sur des exemples que nous exécuterons en direct, les raisons de l’adoption de cette version augmentée des paradigmes que Hadoop avait introduit il y a à peine 10 ans.</p>",
+      "fr": "<p>Ce talk est destiné aux devs et managers intéressés par les technologies libellées \"BigData\", c’est à dire les solutions techniques et technologiques qui ont émergé depuis une bonne dizaine d’années des besoins de traitement de grandes quantités de données.</p> <p>Le focus sera d’abord mis sur les aspects distribués des calculs et traitements, qui sont une caractéristique commune à ces technologies.</p> <p>Nous démontrerons l’intérêt du calcul distribué, non seulement comme solution s’imposant pour les gros volumes de données mais aussi comme réponse à des questions de résilience et fiabilité, de throughput ou de précision en machine learning. Après cette courte introduction, nous passerons aux corps du talk, Apache Spark.</p> <p>Cette librairie de calculs distribués remplace Hadoop chez les acteurs en pointe au niveau technologique. Nous verrons ensemble, en se basant sur des exemples que nous exécuterons en direct, les raisons de l’adoption de cette version augmentée des paradigmes que Hadoop avait introduit il y a à peine 10 ans.</p>"
+    },
+    "description" : "",
+    "speaker": "noootsab_xtordoir",
+    "location": "TBA",
+    "fikket": null,
+    "meetup": null,
+    "endsAt": "27 Feb. 2015"
   }
 ]
