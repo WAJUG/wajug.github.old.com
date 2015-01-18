@@ -251,5 +251,16 @@
       "en":"<p>Sébastien Jodogne holds a Ph.D. degree in Computer Science from the University of Liège (Belgium). His research work was notably acknowledged by the IBM Belgium Award in 2002. Between 2006 and 2011, he implemented high-performance image analysis software for private companies in the fields of machine vision, closed-circuit television, and broadcasting. Since 2011, he has been working as a medical imaging engineer at the University Hospital of Liège, where he develops the free and open source software Orthanc. His research interests include medical imaging, computer vision, machine learning and software engineering.</p>",
       "fr":"<p>Sébastien Jodogne holds a Ph.D. degree in Computer Science from the University of Liège (Belgium). His research work was notably acknowledged by the IBM Belgium Award in 2002. Between 2006 and 2011, he implemented high-performance image analysis software for private companies in the fields of machine vision, closed-circuit television, and broadcasting. Since 2011, he has been working as a medical imaging engineer at the University Hospital of Liège, where he develops the free and open source software Orthanc. His research interests include medical imaging, computer vision, machine learning and software engineering.</p>"
     }
+  },
+  "noootsab_xtordoir" : {
+    "twitter": "",
+    "linkedin": "",
+    "name": "Andy Petrella - Xavier Tordoir",
+    "site": "",
+    "logo": "",
+    "bio":{
+      "en":"<p>Andy et Xavier partagent le goût des technologies distribuées et travaillent ensemble sur des projets où ces connaissances apportent un plus aux solutions envisagées.</p> <p>Le calcul distribué est utilisé  dans les sphères de la science depuis un certain temps mais le buzz fait autour du Big Data ainsi que l'avènement des solutions open source et du cloud computing ont décuplé et popularisé cet intérêt.</p> <p>Ces deux dernières années investies sur ces sujets leurs ont permis de participer à et de créer des projets de recherches passionnants et stimulants.</p> <p>Ainsi, leur temps est dorénavant partagé entre le distributed data science et les conférences.</p>",
+      "fr":"<p>Andy et Xavier partagent le goût des technologies distribuées et travaillent ensemble sur des projets où ces connaissances apportent un plus aux solutions envisagées.</p> <p>Le calcul distribué est utilisé  dans les sphères de la science depuis un certain temps mais le buzz fait autour du Big Data ainsi que l'avènement des solutions open source et du cloud computing ont décuplé et popularisé cet intérêt.</p> <p>Ces deux dernières années investies sur ces sujets leurs ont permis de participer à et de créer des projets de recherches passionnants et stimulants.</p> <p>Ainsi, leur temps est dorénavant partagé entre le distributed data science et les conférences.</p>"
+    }
   }
 }
