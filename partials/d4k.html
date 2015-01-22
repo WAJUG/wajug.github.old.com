@@ -17,6 +17,10 @@
 				padding-top: 20px;
 				padding-bottom: 40px;
 			}
+		.thumbnail {
+			    border: 0 none;
+			    box-shadow: none;
+			}			
 		</style>
 
 		<div class="row-fluid">
@@ -183,19 +187,37 @@
       </div>
     </div>
   </div>
-  <div id="d4k_sponsors">
-    <h2>Les sponsors pour cet événement</h2>
-    <div class="sponsors">
-      <div ng-repeat="sponsor in sponsors" class="sponsor" title="Click to flip">
-        <div class="sponsorFlip">
-          <img src="assets/images/d4k/sponsors/{{sponsor.image}}" alt="More about {{sponsor.name}}" style="width:150px" />
-        </div>
-        <div class="sponsorData">
-          <div class="sponsorDescription" ng-bind-html-unsafe="translate(sponsor.description)"></div>
-          <div class="sponsorURL"><a href="http://{{sponsor.site}}" target="_blank">{{sponsor.name}}</a></div>
-        </div>
-      </div>
-    </div>
+  <div id="d4k_sponsors" class="row-fluid">
+    <h2>Merci à nos sponsors</h2><br/>
+	<ul class="thumbnails">
+		<li class="span5 offset1">
+			<div class="thumbnail">
+				<img src="assets/images/d4k/sponsors/lampiris.png" alt=""/>
+			</div>
+		</li>
+		<li class="span4">
+			<div class="thumbnail">
+				<img src="assets/images/d4k/sponsors/devoxx4kids.png" alt=""/>
+			</div>
+		</li>
+	</ul>
+	<ul class="thumbnails">
+		<li class="span2 offset2">
+			<div class="thumbnail">
+				<img src="assets/images/d4k/sponsors/isl.gif" alt=""/>
+			</div>
+		</li>
+		<li class="span3">
+			<div class="thumbnail">
+				<img src="assets/images/d4k/sponsors/fintro.png" alt=""/>
+			</div>
+		</li>
+		<li class="span3" style="padding-top: 20px">
+			<div class="thumbnail">
+				<img src="assets/images/d4k/sponsors/evs.png" alt=""/>
+			</div>
+		</li>
+	</ul>	
   </div>
   <script>
     function onlyTheseSponsors() {
