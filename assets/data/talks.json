@@ -338,5 +338,33 @@
     "fikket": null,
     "meetup": 219919407,
     "endsAt": "27 Feb. 2015"
-  }
+  },
+  {
+  	"date": {
+      "en": "03/25/2015",
+      "fr": "25/03/2015"
+    },
+    "subject": {
+      "en": "Apache Cassandra for Developers: Why, What & How",
+      "fr": "Apache Cassandra for Developers: Why, What & How"
+    },
+    "title": {
+        "en": "Apache Cassandra for Developers: Why, What & How",
+        "fr": "Apache Cassandra for Developers: Why, What & How"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+  "synopsis": {
+    "en": "<p>Java developers interested in learning about Apache Cassandra and how to use it. Attendees will be introduced to some of its most popular use cases and given an architectural overview of Cassandra. They will also be shown how to model their data on Cassandra and how to use the Java driver.</p><p>The presentation will be given with a mix of slides and code examples. Some live coding may be used also. Topics that will be covered will include:</p><ul><li>Why use Cassandra?<li>Top use cases<li>What is Cassandra?<li>An introduction to the architecture of Cassandra<li>Core concepts<li>Deployment considerations<li>How to use Apache Cassandra<li>Introduction to the Cassandra Query Language (CQL)<li>Data modelling on Cassandra<li>Developing Java applications using Cassandra<li>The Native Driver and Protocol<li>Best Practices<li>Tools and frameworks </ul><h3>Who Should Attend</h3><p>Anybody interested in building Java applications using Apache Cassandra</p>",
+    "fr": "<p>Java developers interested in learning about Apache Cassandra and how to use it. Attendees will be introduced to some of its most popular use cases and given an architectural overview of Cassandra. They will also be shown how to model their data on Cassandra and how to use the Java driver.</p><p>The presentation will be given with a mix of slides and code examples. Some live coding may be used also. Topics that will be covered will include:</p><ul><li>Why use Cassandra?<li>Top use cases<li>What is Cassandra?<li>An introduction to the architecture of Cassandra<li>Core concepts<li>Deployment considerations<li>How to use Apache Cassandra<li>Introduction to the Cassandra Query Language (CQL)<li>Data modelling on Cassandra<li>Developing Java applications using Cassandra<li>The Native Driver and Protocol<li>Best Practices<li>Tools and frameworks </ul><h3>Who Should Attend</h3><p>Anybody interested in building Java applications using Apache Cassandra</p>"
+  },
+  "description" : "",
+  "speaker": "johnny_miller",
+  "location": "TBA",
+  "fikket": null,
+  "meetup": 220172219,
+  "endsAt": "27 Mar. 2015"
+}  
 ]

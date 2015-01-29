@@ -262,5 +262,16 @@
       "en":"<p>Andy et Xavier partagent le goût des technologies distribuées et travaillent ensemble sur des projets où ces connaissances apportent un plus aux solutions envisagées.</p> <p>Le calcul distribué est utilisé  dans les sphères de la science depuis un certain temps mais le buzz fait autour du Big Data ainsi que l'avènement des solutions open source et du cloud computing ont décuplé et popularisé cet intérêt.</p> <p>Ces deux dernières années investies sur ces sujets leurs ont permis de participer à et de créer des projets de recherches passionnants et stimulants.</p> <p>Ainsi, leur temps est dorénavant partagé entre le distributed data science et les conférences.</p>",
       "fr":"<p>Andy et Xavier partagent le goût des technologies distribuées et travaillent ensemble sur des projets où ces connaissances apportent un plus aux solutions envisagées.</p> <p>Le calcul distribué est utilisé  dans les sphères de la science depuis un certain temps mais le buzz fait autour du Big Data ainsi que l'avènement des solutions open source et du cloud computing ont décuplé et popularisé cet intérêt.</p> <p>Ces deux dernières années investies sur ces sujets leurs ont permis de participer à et de créer des projets de recherches passionnants et stimulants.</p> <p>Ainsi, leur temps est dorénavant partagé entre le distributed data science et les conférences.</p>"
     }
+  },
+  "johnny_miller" : {
+    "twitter": "",
+    "linkedin": "",
+    "name": "Johnny Miller",
+    "site": "",
+    "logo": "",
+    "bio":{
+      "en":"<p>Johnny Miller is an experienced developer, architect, team lead and agile coach with a history of working at Sky, AOL Broadband and Alcatel-Lucent. Johnny has architected and delivered a number of enterprise platforms using Cassandra as a key component for achieving high availability and efficient scaling. As a result of Johnny's belief in the performance of Cassandra this lead him to join DataStax and drive solutions for Cassandra Big Data.</p>",
+      "fr":"<p>Johnny Miller is an experienced developer, architect, team lead and agile coach with a history of working at Sky, AOL Broadband and Alcatel-Lucent. Johnny has architected and delivered a number of enterprise platforms using Cassandra as a key component for achieving high availability and efficient scaling. As a result of Johnny's belief in the performance of Cassandra this lead him to join DataStax and drive solutions for Cassandra Big Data.</p>"
+    }
   }
 }
