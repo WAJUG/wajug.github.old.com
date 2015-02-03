@@ -273,5 +273,16 @@
       "en":"<p>Johnny Miller is an experienced developer, architect, team lead and agile coach with a history of working at Sky, AOL Broadband and Alcatel-Lucent. Johnny has architected and delivered a number of enterprise platforms using Cassandra as a key component for achieving high availability and efficient scaling. As a result of Johnny's belief in the performance of Cassandra this lead him to join DataStax and drive solutions for Cassandra Big Data.</p>",
       "fr":"<p>Johnny Miller is an experienced developer, architect, team lead and agile coach with a history of working at Sky, AOL Broadband and Alcatel-Lucent. Johnny has architected and delivered a number of enterprise platforms using Cassandra as a key component for achieving high availability and efficient scaling. As a result of Johnny's belief in the performance of Cassandra this lead him to join DataStax and drive solutions for Cassandra Big Data.</p>"
     }
+  },
+  "johnny_miller" : {
+    "twitter": "",
+    "linkedin": "",
+    "name": "Duy_Hai_Doan",
+    "site": "http://www.datastax.com/",
+    "logo": "",
+    "bio":{
+      "en":"",
+      "fr":""
+    }
   }
 }
