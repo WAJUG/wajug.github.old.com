@@ -366,6 +366,33 @@
   "fikket": null,
   "meetup": 220172219,
   "endsAt": "2 Apr. 2015"
+},  
+  {
+  	"date": {
+      "en": "05/28/2015",
+      "fr": "28/05/2015"
+    },
+    "subject": {
+      "en": "Introduction to Ember.js",
+      "fr": "Introduction to Ember.js"
+    },
+    "title": {
+        "en": "Introduction to Ember.js",
+        "fr": "Introduction to Ember.js"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+  "synopsis": {
+    "en": "<p>More to come...</p>",
+    "fr": "<p>More to come...</p>"
+  },
+  "description" : "",
+  "speaker": "antoine_dubois",
+  "location": "TBA",
+  "fikket": null,
+  "meetup": null,
+  "endsAt": "30 May 2015"
 }  
-
 ]

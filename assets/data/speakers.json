@@ -284,5 +284,16 @@
       "en":"DuyHai Doan is a Cassandra technical advocate. He spends his time between technical presentations/meetups on Cassandra, coding on open source projects to support the community and helping all  companies using Cassandra to make their project successful. Previously he was working as a freelance Java/Cassandra consultant.",
       "fr":"DuyHai Doan is a Cassandra technical advocate. He spends his time between technical presentations/meetups on Cassandra, coding on open source projects to support the community and helping all  companies using Cassandra to make their project successful. Previously he was working as a freelance Java/Cassandra consultant."
     }
+  },
+  "antoine_dubois" : {
+    "twitter": "",
+    "linkedin": "https://be.linkedin.com/in/duboisantoine",
+    "name": "Antoine Dubois",
+    "site": "http://www.arexo.be",
+    "logo": "",
+    "bio":{
+      "en":"More to come...",
+      "fr":"More to come..."
+    }
   }
 }
