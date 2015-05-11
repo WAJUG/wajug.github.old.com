@@ -374,25 +374,25 @@
     },
     "subject": {
       "en": "Introduction to Ember.js",
-      "fr": "Introduction to Ember.js"
+      "fr": "Introduction à Ember.js"
     },
     "title": {
         "en": "Introduction to Ember.js",
-        "fr": "Introduction to Ember.js"
+        "fr": "Introduction à Ember.js"
     },
     "subtitle":{
       "en": "",
       "fr": ""
     },
   "synopsis": {
-    "en": "<p>More to come...</p>",
-    "fr": "<p>More to come...</p>"
+    "en": "<p>Une nouvelle effervescence est apparue dans le milieu Javascript ces derniers temps. L'apparition de frameworks MVC côté client provoque l'enthousiasme d'une foule de développeurs web.</p><p>Parmi les nombreux frameworks existants ou émergeants se trouve Ember.js, framework MVC qui semble difficile à prendre en main mais qui au final apporte une constance dans l'effort à investir. Alors que d'autres sont très commodes pour des petits projets mais font s'arracher les cheveux des développeurs si le projet tend à grandir.</p><p>Binding, Routes, HTML Components,... Je vous présenterai tous les aspects de Ember.js et tenterai de vous convaincre qu'il s'agit d'un des meilleurs choix actuels.</p><p>Envie de découvrir comment Ember.js peut vous aider à développer des SPAs in no time? Meet up @ Wajug!</p>",
+    "fr": "<p>Une nouvelle effervescence est apparue dans le milieu Javascript ces derniers temps. L'apparition de frameworks MVC côté client provoque l'enthousiasme d'une foule de développeurs web.</p><p>Parmi les nombreux frameworks existants ou émergeants se trouve Ember.js, framework MVC qui semble difficile à prendre en main mais qui au final apporte une constance dans l'effort à investir. Alors que d'autres sont très commodes pour des petits projets mais font s'arracher les cheveux des développeurs si le projet tend à grandir.</p><p>Binding, Routes, HTML Components,... Je vous présenterai tous les aspects de Ember.js et tenterai de vous convaincre qu'il s'agit d'un des meilleurs choix actuels.</p><p>Envie de découvrir comment Ember.js peut vous aider à développer des SPAs in no time? Meet up @ Wajug!</p>"
   },
   "description" : "",
   "speaker": "antoine_dubois",
   "location": "TBA",
   "fikket": null,
-  "meetup": null,
+  "meetup": 222063623,
   "endsAt": "30 May 2015"
 }  
 ]
