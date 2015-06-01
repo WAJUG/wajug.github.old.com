@@ -295,5 +295,17 @@
       "en":"<p>Je suis tombé dans la marmite de l'informatique alors que j'étais tout petit en commençant à programmer en Turbo Basic sur l'ordinateur de mon père dès l'âge de 12 ans. Depuis cette passion ne m'a jamais quittée.</p><p>Je suis un touche à tout en terme de technologie et j'aime à comprendre tous les aspects des solutions IT. J'ai commencé ma carrière de consultant sur la case BI. J'ai lancé les dès et je me suis aventuré dans le développement de base de données. J'ai ensuite réussi un double 6 pour avancer jusqu'au développement Java pour arriver finalement aux solutions webs et mobiles.</p><p>Cela fait 3 ans que j'ai rejoint l'équipe Arexo et suis actuellement en mission chez Fortuneo en tant que architecte/développeur pour leur site web.</p><p>Récemment j'ai eu un coup de cœur pour un framework Javascript qui s'appelle Ember.js et j'entends bien partager mon attrait pour ce superbe outils avec vous lors de ma première expérience de conférencier lors de la séance du Wajug le 23 mai 2015.</p>",
       "fr":"<p>Je suis tombé dans la marmite de l'informatique alors que j'étais tout petit en commençant à programmer en Turbo Basic sur l'ordinateur de mon père dès l'âge de 12 ans. Depuis cette passion ne m'a jamais quittée.</p><p>Je suis un touche à tout en terme de technologie et j'aime à comprendre tous les aspects des solutions IT. J'ai commencé ma carrière de consultant sur la case BI. J'ai lancé les dès et je me suis aventuré dans le développement de base de données. J'ai ensuite réussi un double 6 pour avancer jusqu'au développement Java pour arriver finalement aux solutions webs et mobiles.</p><p>Cela fait 3 ans que j'ai rejoint l'équipe Arexo et suis actuellement en mission chez Fortuneo en tant que architecte/développeur pour leur site web.</p><p>Récemment j'ai eu un coup de cœur pour un framework Javascript qui s'appelle Ember.js et j'entends bien partager mon attrait pour ce superbe outils avec vous lors de ma première expérience de conférencier lors de la séance du Wajug le 23 mai 2015.</p>"
     }
+  },
+  "pascal_van_cauwenberghe" : {
+    "twitter": "pascalvc",
+    "linkedin": "https://www.linkedin.com/in/pascalvancauwenberghe",
+    "name": "Pascal Van Cauwenberghe",
+    "site": "http://blog.nayima.be/",
+    "logo": "",
+    "bio":{
+      "en":"<p>More to come...</p>",
+      "fr":"<p>More to come...</p>"
+    }
   }
+  
 }

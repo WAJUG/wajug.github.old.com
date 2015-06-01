@@ -394,5 +394,34 @@
   "fikket": null,
   "meetup": 222063623,
   "endsAt": "30 May 2015"
+},
+  {
+  	"date": {
+      "en": "06/23/2015",
+      "fr": "23/06/2015"
+    },
+    "subject": {
+      "en": "Chouette, encore un bug! ",
+      "fr": "Chouette, encore un bug! "
+    },
+    "title": {
+        "en": "Chouette, encore un bug! ",
+        "fr": "Chouette, encore un bug! "
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+  "synopsis": {
+    "en": "<p>More to come...</p>",
+    "fr": "<p>More to come...</p>"
+  },
+  "description" : "",
+  "speaker": "pascal_van_cauwenberghe",
+  "location": "TBA",
+  "fikket": null,
+  "meetup": 222942113,
+  "endsAt": "30 June 2015"
 }  
+
 ]
