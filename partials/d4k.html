@@ -37,48 +37,74 @@
 		<div class="row-fluid">
 		<div class="span7">
 		<h4>Comment s'inscrire?</h4>
-		<div id="registerChildForm" style="min-height: 40px;">
-      <script src="http://cdn.jotfor.ms/static/feedback2.js?3.1.1745" type="text/javascript">
-      </script>
-      <script>
-        function initRegisterChildForm() {
-          var registerChildForm = $("#registerChildForm");
-          if (window["JotformFeedback"] !== undefined) {
-            new JotformFeedback({
-              formId:'50014097557353',
-              base:'http://jotformeu.com/',
-              windowTitle:'Inscription Devoxx4Kids@Wajug 2015',
-              background:'red',
-              fontColor:'#FFFFFF',
-              type:false,
-              height:500,
-              width:700
-            });
-            var a = $('<input type="button" class="btn btn-success lightbox-50014097557353" value="Remplir ce formulaire"/>');
-            a.hide();
-            registerChildForm.append(a);
-
-            registerChildForm.find(".wait").slideUp('slow');
-
-            setTimeout(function() {
-              a.slideDown("slow");
-            }, 1000);
-
-          } else {
-            setTimeout(initRegisterChildForm, 1);
-          }
-        }
-        // CLOTURE DES INSCRIPTIONS >> setTimeout(initRegisterChildForm, 0);
-        //setTimeout(initRegisterChildForm, 0);
-      </script>
 		<!--
+		<div id="registerChildForm" style="min-height: 40px;">
       <span class="alert alert-warn wait">En attente du formulaire</span>
 			-->
       <!-- CLOTURE <span class="alert alert-warn wait">En attente du formulaire</span>-->
-    </div>
+    <!-- </div> -->
     <div class="alert alert-info">
+		<!--
       <strong>Les inscriptions seront ouvertes mi-décembre. 
 		  <br/>Restez branché...</strong>
+			-->
+		  <!-- start iframe -->
+
+    <iframe
+      id="JotFormIFrame"
+      onload="window.parent.scrollTo(0,0)"
+      allowtransparency="true"
+      src="https://form.jotformeu.com/53586693619371"
+      frameborder="0"
+      style="width:100%;
+      height:539px;
+      border:none;"
+      scrolling="no">
+    </iframe>
+    <script type="text/javascript">
+      window.handleIFrameMessage = function(e) {
+        var args = e.data.split(":");
+        var iframe = document.getElementById("JotFormIFrame");
+        if (!iframe)
+          return;
+        switch (args[0]) {
+          case "scrollIntoView":
+            iframe.scrollIntoView();
+            break;
+          case "setHeight":
+            iframe.style.height = args[1] + "px";
+            break;
+          case "collapseErrorPage":
+            if (iframe.clientHeight > window.innerHeight) {
+              iframe.style.height = window.innerHeight + "px";
+            }
+            break;
+          case "reloadPage":
+            window.location.reload();
+            break;
+        }
+        var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
+        if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
+          var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
+          iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
+        }
+      };
+      if (window.addEventListener) {
+        window.addEventListener("message", handleIFrameMessage, false);
+      } else if (window.attachEvent) {
+        window.attachEvent("onmessage", handleIFrameMessage);
+      }
+      if(window.location.href && window.location.href.indexOf("?") > -1) {
+        var ifr = document.getElementById("JotFormIFrame");
+        var get = window.location.href.substr(window.location.href.indexOf("?") + 1);
+        if(ifr && get.length > 0) {
+          var src = ifr.src;
+          src = src.indexOf("?") > -1 ? src + "&" + get : src  + "?" + get;
+          ifr.src = src;
+        }
+      }
+      </script>		  <!-- end iframe -->
+			 
 	  <!--
 	  <strong>Nous sommes désolé, toutes les places ont déjà été réservées pour cette session.</strong>
       <span>Toutefois, nous répondrons à toutes vos questions sur cet email <a href="mailto:info@wajug.be">info@wajug.be</a>.</span>
