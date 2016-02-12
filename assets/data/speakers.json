@@ -306,6 +306,20 @@
       "en":"<p>Pascal Van Cauwenberghe est un consultant basé à Bruxelles qui essaie de résoudre plus de problèmes qu’il n’en crée. Pour cela il utilise des méthodes issues de l’agile, du Lean, de la théorie des contraintes, du Systems Thinking notamment.</p><p>Il est un des fondateurs du groupe XP en Belgique et un des organisateurs des XP Days Benelux. Un jour, Vera Peeters et lui ont inventé le “XP Game“, parce qu’ils ne réussissaient pas à expliquer XP. Ils ont appris que le jeu est un moyen idéal pour apprendre. Depuis lors, il tente de transformer le travail en un jeu…</p><p><a href='http://blog.nayima.be/about/'>http://blog.nayima.be/about/</p>",
       "fr":"<p>Pascal Van Cauwenberghe est un consultant basé à Bruxelles qui essaie de résoudre plus de problèmes qu’il n’en crée. Pour cela il utilise des méthodes issues de l’agile, du Lean, de la théorie des contraintes, du Systems Thinking notamment.</p><p>Il est un des fondateurs du groupe XP en Belgique et un des organisateurs des XP Days Benelux. Un jour, Vera Peeters et lui ont inventé le “XP Game“, parce qu’ils ne réussissaient pas à expliquer XP. Ils ont appris que le jeu est un moyen idéal pour apprendre. Depuis lors, il tente de transformer le travail en un jeu…</p><p><a href='http://blog.nayima.be/about/'>http://blog.nayima.be/about/</p>"
     }
+  },
+  "gildas_cuisinier_julien_garcia_gonzales" : {
+    "twitter": "",
+    "linkedin": "",
+    "name": "Gildas Cuisinier & Julien Garcia Gonzales",
+    "site": "",
+    "logo": "",
+    "bio":{
+      "en":"<p><b><i>Gildas Cuisinier</i></b> (<a href='https://twitter.com/gcuisinier'>@gcuisinier</a>), ancien de l’Inpres, fanboy de Spring plein d’avenir  des années a finalement mal tourné et s’est intéressé au monde des Ops (sans toute fois y basculer complètement !).</p><p>C’est ainsi qu’il a fini par prendre en charge le développement du pôle DevOps chez Sfeir Benelux, avec une affinité particulière pour Docker et son écosystème.</p><p>En dehors de cela, il est également membre actif du YaJUG et participe à l’initiative Devoxx4Kids dans la région du Luxembourg.</p><p><b><i>Julien Garcia Gonzalez</i></b> (<a href='https://twitter.com/jgsqware'>@jgsqware</a>): Wemanity Cooperator, Devops Spreader, Docker lover</p>",
+      "fr":"<p><b><i>Gildas Cuisinier</i></b> (<a href='https://twitter.com/gcuisinier'>@gcuisinier</a>), ancien de l’Inpres, fanboy de Spring plein d’avenir  des années a finalement mal tourné et s’est intéressé au monde des Ops (sans toute fois y basculer complètement !).</p><p>C’est ainsi qu’il a fini par prendre en charge le développement du pôle DevOps chez Sfeir Benelux, avec une affinité particulière pour Docker et son écosystème.</p><p>En dehors de cela, il est également membre actif du YaJUG et participe à l’initiative Devoxx4Kids dans la région du Luxembourg.</p><p><b><i>Julien Garcia Gonzalez</i></b> (<a href='https://twitter.com/jgsqware'>@jgsqware</a>): Wemanity Cooperator, Devops Spreader, Docker lover</p>"
+    }
   }
   
 }
+
+
+
