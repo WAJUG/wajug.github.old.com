@@ -429,12 +429,12 @@
       "fr": "15/03/2016 18h30"
     },
     "subject": {
-      "en": "Quoi de neuf? Docker!",
-      "fr": "Quoi de neuf? Docker!"
+      "en": "Quoi de neuf, Docker?",
+      "fr": "Quoi de neuf, Docker?"
     },
     "title": {
-        "en": "Quoi de neuf? Docker!",
-        "fr": "Quoi de neuf? Docker!"
+        "en": "Quoi de neuf, Docker?",
+        "fr": "Quoi de neuf, Docker?"
     },
     "subtitle":{
       "en": "2 talks sinon rien!",
