@@ -15,7 +15,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr ng-repeat="talk in talks" ng-class="{done: talk.done}">
+          <tr ng-repeat="talk in talks.slice().reverse()" ng-class="{done: talk.done}">
             <td ng-bind-html-unsafe="translate(talk.date)"></td>
             <td ng-class="{done: talk.done}">
               <a class="details" ng-click="select(talk)" future-href="events/{{talk.speaker.id}}/{{talk.description}}.html" ng-bind-html-unsafe="translate(talk.subject)"></a>
