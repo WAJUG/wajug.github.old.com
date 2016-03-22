@@ -449,12 +449,34 @@
   "location": "laforge@leansquare",
   "fikket": null,
   "meetup": 228800508,
+  "endsAt": "21 March 2016"
+},  
+  {
+  	"date": {
+      "en": "04/28/2016 6:30PM",
+      "fr": "28/04/2016 18h30"
+    },
+    "subject": {
+      "en": "Developing for smartwatches",
+      "fr": "Developing for smartwatches"
+    },
+    "title": {
+        "en": "Developing for smartwatches",
+        "fr": "Developing for smartwatches"
+    },
+    "subtitle":{
+      "en": "",
+      "fr": ""
+    },
+  "synopsis": {
+    "en": "<p>Nous allons vous montrer l’application Smartvoxx, qui vous permet de consulter l’agenda de Devoxx et de recevoir des notifications pour vos présentations favorites mais sur différentes plates-formes smartwatch (Apple Watch, Android Wear, …). Cette présentation sera l’occasion de partager notre retour d’expérience sur les langages, les outils, les APIs et les possibilités de chaque plate-forme, afin que vous puissiez vous faire une idée concrète du genre d’opportunités offertes par ce nouveau paradigme ainsi que de l’investissement nécessaire pour tirer parti de ces opportunités. Attention, il y aura du code Java et du code Swift dans cette présentation, voire peut-être même du C.</p>",
+    "fr": "<p>Nous allons vous montrer l’application Smartvoxx, qui vous permet de consulter l’agenda de Devoxx et de recevoir des notifications pour vos présentations favorites mais sur différentes plates-formes smartwatch (Apple Watch, Android Wear, …). Cette présentation sera l’occasion de partager notre retour d’expérience sur les langages, les outils, les APIs et les possibilités de chaque plate-forme, afin que vous puissiez vous faire une idée concrète du genre d’opportunités offertes par ce nouveau paradigme ainsi que de l’investissement nécessaire pour tirer parti de ces opportunités. Attention, il y aura du code Java et du code Swift dans cette présentation, voire peut-être même du C.</p>"
+  },
+  "description" : "",
+  "speaker": "sebastien_arbogast_said_eloudrhiri",
+  "location": "TBA",
+  "fikket": null,
+  "meetup": 229781031,
   "endsAt": "30 June 2016"
 }  
-
 ]
-
-
-
-
-
